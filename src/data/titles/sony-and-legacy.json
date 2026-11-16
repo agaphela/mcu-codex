@@ -1,0 +1,362 @@
+[
+  {
+    "id": "spider-man-2002",
+    "title": "Spider-Man",
+    "type": "film",
+    "release": "2002-05-03",
+    "lane": "raimi",
+    "beat": 2002,
+    "year": "2002",
+    "tier": "recommended",
+    "tmdbQuery": "Spider-Man",
+    "short": "Peter Parker is bitten by a spider, loses his uncle, and faces the Green Goblin.",
+    "plot": [
+      "Shy student Peter Parker gains spider powers. He lets a thief run past, and the thief kills his Uncle Ben. Peter takes his uncle's words about power and responsibility as a rule for life.",
+      "Industrialist Norman Osborn, father of Peter's best friend Harry, tests a serum on himself and becomes the Green Goblin. He dies impaled on his own glider, and Harry blames Spider-Man. This Goblin returns in No Way Home."
+    ],
+    "main": ["peter-parker-raimi", "norman-osborn-raimi", "mary-jane-watson-raimi", "harry-osborn-raimi"],
+    "supporting": ["may-parker-raimi", "ben-parker-raimi", "j-jonah-jameson-raimi"]
+  },
+  {
+    "id": "spider-man-2",
+    "title": "Spider-Man 2",
+    "type": "film",
+    "release": "2004-06-30",
+    "lane": "raimi",
+    "beat": 2004,
+    "year": "2004",
+    "tier": "recommended",
+    "short": "Peter tries to quit being Spider-Man as Doctor Octopus threatens the city.",
+    "plot": [
+      "Peter's double life is costing him everything and his powers begin to fail. Scientist Otto Octavius is fused to four mechanical arms that take over his mind after an experiment kills his wife.",
+      "Peter returns to the suit, stops a runaway train, and reaches the man inside the machine. Octavius drowns his reactor and himself. Mary Jane learns Peter's secret, and Harry finds his father's weapons."
+    ],
+    "main": ["peter-parker-raimi", "otto-octavius-raimi", "mary-jane-watson-raimi", "harry-osborn-raimi"],
+    "supporting": ["may-parker-raimi", "j-jonah-jameson-raimi", "curt-connors-raimi"]
+  },
+  {
+    "id": "spider-man-3",
+    "title": "Spider-Man 3",
+    "type": "film",
+    "release": "2007-05-04",
+    "lane": "raimi",
+    "beat": 2007,
+    "year": "2007",
+    "tier": "optional",
+    "short": "An alien symbiote feeds Peter's worst impulses as Sandman and Venom appear.",
+    "plot": [
+      "A black alien symbiote bonds with Peter and makes him cruel. Flint Marko, the real killer of Uncle Ben, becomes the Sandman. Peter tears the symbiote off and it takes rival photographer Eddie Brock, creating Venom. Harry dies helping Peter, and Peter forgives Marko."
+    ],
+    "main": ["peter-parker-raimi", "flint-marko-raimi", "eddie-brock-raimi", "harry-osborn-raimi", "mary-jane-watson-raimi"],
+    "supporting": ["gwen-stacy-raimi", "may-parker-raimi", "j-jonah-jameson-raimi", "curt-connors-raimi"]
+  },
+  {
+    "id": "the-amazing-spider-man",
+    "title": "The Amazing Spider-Man",
+    "type": "film",
+    "release": "2012-07-03",
+    "lane": "webb",
+    "beat": 2012.5,
+    "year": "2012",
+    "tier": "optional",
+    "short": "A second Peter Parker investigates his parents' disappearance and fights the Lizard.",
+    "plot": [
+      "Peter follows his missing father's research to Oscorp and is bitten there. His father's colleague Curt Connors injects himself with lizard DNA to regrow his arm and becomes a monster. Peter stops him, and promises the dying Captain Stacy to keep away from his daughter Gwen."
+    ],
+    "main": ["peter-parker-webb", "gwen-stacy-webb", "curt-connors-webb"],
+    "supporting": ["george-stacy", "may-parker-webb", "ben-parker-webb"]
+  },
+  {
+    "id": "the-amazing-spider-man-2",
+    "title": "The Amazing Spider-Man 2",
+    "type": "film",
+    "release": "2014-05-02",
+    "lane": "webb",
+    "beat": 2014.2,
+    "year": "2014",
+    "tier": "optional",
+    "short": "Peter faces Electro and Harry Osborn, and fails to save Gwen Stacy.",
+    "plot": [
+      "Oscorp engineer Max Dillon becomes the living battery Electro, and a dying Harry Osborn becomes a Goblin. Gwen falls in a clock tower and Peter's web catches her a moment too late. Her death is what this Peter carries into No Way Home."
+    ],
+    "main": ["peter-parker-webb", "gwen-stacy-webb", "max-dillon-webb", "harry-osborn-webb"],
+    "supporting": ["may-parker-webb", "aleksei-sytsevich"]
+  },
+  {
+    "id": "madame-web",
+    "title": "Madame Web",
+    "type": "film",
+    "release": "2024-02-14",
+    "lane": "ssu",
+    "beat": 2003.3,
+    "year": "2003",
+    "tier": "optional",
+    "short": "A paramedic who sees the future protects three girls destined to become Spider-Women.",
+    "plot": [
+      "In 2003, paramedic Cassandra Webb begins seeing moments before they happen. She shields three teenagers from Ezekiel Sims, who has foreseen them killing him. It has no link to the larger story."
+    ],
+    "main": ["cassandra-webb", "ezekiel-sims"],
+    "supporting": ["julia-cornwall", "mattie-franklin", "anya-corazon"]
+  },
+  {
+    "id": "venom",
+    "title": "Venom",
+    "type": "film",
+    "release": "2018-10-05",
+    "lane": "ssu",
+    "beat": 2018.6,
+    "year": "2018",
+    "tier": "optional",
+    "short": "Reporter Eddie Brock bonds with an alien symbiote and the two learn to share a body.",
+    "plot": [
+      "Disgraced journalist Eddie Brock breaks into the Life Foundation and is bonded to the symbiote Venom. They stop the foundation's founder and the symbiote Riot from bringing an invasion to Earth, and agree to eat only bad people."
+    ],
+    "main": ["eddie-brock", "venom-symbiote", "carlton-drake"],
+    "supporting": ["anne-weying", "mrs-chen", "cletus-kasady"]
+  },
+  {
+    "id": "venom-let-there-be-carnage",
+    "title": "Venom: Let There Be Carnage",
+    "type": "film",
+    "release": "2021-10-01",
+    "lane": "ssu",
+    "beat": 2024.7,
+    "year": "≈2021",
+    "tier": "optional",
+    "crossovers": ["616-films"],
+    "short": "Serial killer Cletus Kasady becomes Carnage. Afterwards Eddie is briefly pulled into the MCU.",
+    "plot": [
+      "Kasady bites Eddie and gains a symbiote of his own, Carnage. Eddie and Venom defeat him and go on the run. In a hotel room, the world shifts around them and the TV shows Peter Parker being unmasked: they have been pulled to Earth-616 by the spell in No Way Home."
+    ],
+    "main": ["eddie-brock", "venom-symbiote", "cletus-kasady"],
+    "supporting": ["anne-weying", "frances-barrison", "patrick-mulligan", "mrs-chen"]
+  },
+  {
+    "id": "morbius",
+    "title": "Morbius",
+    "type": "film",
+    "release": "2022-04-01",
+    "lane": "ssu",
+    "beat": 2024.82,
+    "year": "≈2022",
+    "tier": "optional",
+    "crossovers": ["616-films"],
+    "short": "A doctor's cure for his blood disease turns him into a living vampire.",
+    "plot": [
+      "Dr. Michael Morbius treats his illness with bat DNA and gains strength and a thirst for blood. His friend Milo takes the same cure and kills freely until Morbius stops him. In the credits Adrian Toomes, the Vulture, arrives from Earth-616 as a side effect of the No Way Home spell."
+    ],
+    "main": ["michael-morbius", "milo"],
+    "supporting": ["martine-bancroft", "adrian-toomes"]
+  },
+  {
+    "id": "venom-the-last-dance",
+    "title": "Venom: The Last Dance",
+    "type": "film",
+    "release": "2024-10-25",
+    "lane": "ssu",
+    "beat": 2024.88,
+    "year": "≈2024",
+    "tier": "optional",
+    "short": "Back in their own universe, Eddie and Venom are hunted by soldiers and by creatures sent by Knull.",
+    "plot": [
+      "Knull, creator of the symbiotes, is imprisoned and needs a key that exists only while Eddie and Venom are joined. His hunters track them to Area 51. Venom sacrifices himself to destroy the creatures, leaving Eddie alone. Knull promises he will come."
+    ],
+    "main": ["eddie-brock", "venom-symbiote"],
+    "supporting": ["knull", "rex-strickland", "teddy-payne", "patrick-mulligan", "mrs-chen"]
+  },
+  {
+    "id": "kraven-the-hunter",
+    "title": "Kraven the Hunter",
+    "type": "film",
+    "release": "2024-12-13",
+    "lane": "ssu",
+    "beat": 2025.05,
+    "year": "Present day",
+    "tier": "optional",
+    "short": "The son of a crime lord gains animal senses and hunts criminals.",
+    "plot": [
+      "Sergei Kravinoff survives a lion attack through a serum and grows up hunting gangsters, at war with his father and with the Rhino. No link to the larger story."
+    ],
+    "main": ["sergei-kravinoff"],
+    "supporting": ["calypso", "dmitri-smerdyakov", "aleksei-sytsevich-ssu", "nikolai-kravinoff"]
+  },
+  {
+    "id": "blade",
+    "title": "Blade",
+    "type": "film",
+    "release": "1998-08-21",
+    "lane": "legacy",
+    "beat": 1998,
+    "year": "1998",
+    "tier": "optional",
+    "short": "A half-vampire hunter stops a vampire from raising a blood god.",
+    "plot": [
+      "Blade has a vampire's strength and none of its weaknesses apart from the thirst. With his mentor Whistler he hunts vampires and stops Deacon Frost's ritual. Wesley Snipes plays this Blade again in Deadpool & Wolverine."
+    ],
+    "main": ["blade", "deacon-frost"],
+    "supporting": ["abraham-whistler", "karen-jenson"]
+  },
+  {
+    "id": "blade-ii",
+    "title": "Blade II",
+    "type": "film",
+    "release": "2002-03-22",
+    "lane": "legacy",
+    "beat": 2002.1,
+    "year": "2002",
+    "tier": "optional",
+    "short": "Blade allies with vampires against a breed that feeds on both species.",
+    "plot": [
+      "A mutated strain called Reapers preys on vampires and humans alike. Blade leads a vampire squad against them and finds the vampire rulers created the strain themselves."
+    ],
+    "main": ["blade"],
+    "supporting": ["abraham-whistler", "nomak", "nyssa"]
+  },
+  {
+    "id": "daredevil-2003",
+    "title": "Daredevil",
+    "type": "film",
+    "release": "2003-02-14",
+    "lane": "legacy",
+    "beat": 2003.2,
+    "year": "2003",
+    "tier": "optional",
+    "tmdbQuery": "Daredevil",
+    "short": "An earlier, separate take on Matt Murdock, the Kingpin and Elektra.",
+    "plot": [
+      "Blind lawyer Matt Murdock fights the Kingpin and the assassin Bullseye and falls for Elektra Natchios, who is killed. Unconnected to the Netflix series. Jennifer Garner's Elektra returns in Deadpool & Wolverine."
+    ],
+    "main": ["matt-murdock-legacy", "elektra-legacy"],
+    "supporting": ["wilson-fisk-legacy", "bullseye-legacy"]
+  },
+  {
+    "id": "blade-trinity",
+    "title": "Blade: Trinity",
+    "type": "film",
+    "release": "2004-12-08",
+    "lane": "legacy",
+    "beat": 2004.1,
+    "year": "2004",
+    "tier": "optional",
+    "short": "Blade and two young hunters face Dracula.",
+    "plot": [
+      "Framed for murder, Blade joins the Nightstalkers, Abigail Whistler and Hannibal King, against the first vampire, Drake."
+    ],
+    "main": ["blade"],
+    "supporting": ["abigail-whistler", "hannibal-king", "drake"]
+  },
+  {
+    "id": "elektra",
+    "title": "Elektra",
+    "type": "film",
+    "release": "2005-01-14",
+    "lane": "legacy",
+    "beat": 2005.1,
+    "year": "2005",
+    "tier": "optional",
+    "short": "Resurrected, Elektra protects a girl from the Hand.",
+    "plot": [
+      "Brought back to life and working as an assassin, Elektra refuses a contract on a father and daughter and defends them from the ninja order the Hand."
+    ],
+    "main": ["elektra-legacy"],
+    "supporting": ["stick-legacy", "abby-miller"]
+  },
+  {
+    "id": "fantastic-four-2005",
+    "title": "Fantastic Four",
+    "type": "film",
+    "release": "2005-07-08",
+    "lane": "legacy",
+    "beat": 2005.2,
+    "year": "2005",
+    "tier": "optional",
+    "tmdbQuery": "Fantastic Four",
+    "short": "An earlier Fantastic Four gain their powers and face Victor von Doom.",
+    "plot": [
+      "A cosmic storm changes five people on a space station: Reed, Sue, Johnny, Ben and their backer Victor von Doom, who turns to metal and turns on them. Chris Evans's Johnny Storm returns in Deadpool & Wolverine."
+    ],
+    "main": ["reed-richards-legacy", "sue-storm-legacy", "johnny-storm-legacy", "ben-grimm-legacy", "victor-von-doom-legacy"],
+    "supporting": ["alicia-masters-legacy"]
+  },
+  {
+    "id": "fantastic-four-rise-of-the-silver-surfer",
+    "title": "Fantastic Four: Rise of the Silver Surfer",
+    "type": "film",
+    "release": "2007-06-15",
+    "lane": "legacy",
+    "beat": 2007.1,
+    "year": "2007",
+    "tier": "optional",
+    "short": "The Silver Surfer arrives ahead of Galactus.",
+    "plot": [
+      "The Surfer, herald of the planet-eater Galactus, marks Earth for destruction. Sue persuades him to turn on his master, and he drives Galactus away."
+    ],
+    "main": ["reed-richards-legacy", "sue-storm-legacy", "johnny-storm-legacy", "ben-grimm-legacy", "norrin-radd"],
+    "supporting": ["victor-von-doom-legacy", "alicia-masters-legacy"]
+  },
+  {
+    "id": "x-men-97",
+    "title": "X-Men '97",
+    "type": "series",
+    "release": "2024-03-20",
+    "lane": "other",
+    "beat": 1997,
+    "year": "1997",
+    "tier": "optional",
+    "short": "Animated revival of the 1990s series. Magneto inherits the X-Men after Xavier's apparent death.",
+    "plot": [
+      "Xavier is believed dead and leaves the school to Magneto. Sentinels massacre the mutant nation of Genosha, killing Gambit. The android Bastion plans to enslave mutants, and Magneto answers by attacking the whole planet. The team ends up scattered through time. It is its own universe, a good primer on the X-Men but not part of the film story."
+    ],
+    "main": ["scott-summers-97", "jean-grey-97", "magneto-97", "storm-97"],
+    "supporting": ["logan-97", "rogue-97", "gambit-97", "bastion"]
+  },
+  {
+    "id": "spider-man-into-the-spider-verse",
+    "title": "Spider-Man: Into the Spider-Verse",
+    "type": "film",
+    "release": "2018-12-14",
+    "lane": "other",
+    "beat": 2018.55,
+    "year": "Earth-1610",
+    "tier": "optional",
+    "short": "Animated. Teenager Miles Morales becomes Spider-Man and meets Spider-People from other universes.",
+    "plot": [
+      "Miles Morales is bitten just as the Kingpin's collider kills his world's Peter Parker and pulls in others: an older Peter, Gwen Stacy, Spider-Man Noir and more. Miles learns to trust himself, sends them home and destroys the machine."
+    ],
+    "main": ["miles-morales", "peter-b-parker", "gwen-stacy-spider-verse"],
+    "supporting": ["wilson-fisk-spider-verse", "aaron-davis-spider-verse", "spider-man-noir", "peni-parker", "spider-ham"]
+  },
+  {
+    "id": "spider-man-across-the-spider-verse",
+    "title": "Spider-Man: Across the Spider-Verse",
+    "type": "film",
+    "release": "2023-06-02",
+    "lane": "other",
+    "beat": 2019.9,
+    "year": "Earth-1610",
+    "tier": "optional",
+    "short": "Animated. Miles finds a society of Spider-People who say his father's death must not be prevented.",
+    "plot": [
+      "Gwen brings Miles into the Spider-Society led by Miguel O'Hara, which protects canon events, tragedies every Spider-Man must suffer or the universe unravels. Miles refuses to let his father die and escapes, only to land in the wrong universe, where his other self is the Prowler. Ends on a cliffhanger."
+    ],
+    "main": ["miles-morales", "gwen-stacy-spider-verse", "miguel-ohara", "the-spot"],
+    "supporting": ["peter-b-parker", "hobie-brown", "pavitr-prabhakar", "jessica-drew"]
+  },
+  {
+    "id": "spider-noir",
+    "title": "Spider-Noir",
+    "type": "series",
+    "release": "2026-05-27",
+    "lane": "other",
+    "beat": 1933,
+    "year": "1930s",
+    "tier": "optional",
+    "provisional": true,
+    "short": "Live action. An ageing private eye in 1930s New York was once the city's only superhero.",
+    "plot": [
+      "Nicolas Cage plays Ben Reilly, a worn-out investigator in Depression-era New York dealing with his past as a masked hero. It is its own universe with no link to the larger story."
+    ],
+    "main": ["ben-reilly"],
+    "supporting": []
+  }
+]

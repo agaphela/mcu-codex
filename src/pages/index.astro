@@ -1,0 +1,70 @@
+---
+import '../styles/global.css';
+import Timeline from '../components/Timeline.astro';
+import { loadCodex } from '../lib/data';
+
+const data = loadCodex();
+// Embedded once so the browser can re-layout and fill the detail panel without a server.
+const json = JSON.stringify(data).replace(/</g, '\\u003c');
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>MCU Codex · Road to Doomsday</title>
+    <meta
+      name="description"
+      content="Every Marvel film and series on one timeline, across every universe, with the main story you need before Avengers: Doomsday."
+    />
+    <meta name="theme-color" content="#0b0d14" />
+  </head>
+  <body>
+    <header class="bar">
+      <div class="brand">
+        <h1>MCU Codex</h1>
+        <p>Road to Doomsday <span id="countdown"></span></p>
+      </div>
+      <div class="controls">
+        <div class="seg" role="group" aria-label="Order">
+          <button type="button" data-order="story" aria-pressed="true">Story order</button>
+          <button type="button" data-order="release" aria-pressed="false">Release order</button>
+        </div>
+        <div class="seg" role="group" aria-label="How much to show">
+          <button type="button" data-tier="essential" aria-pressed="false">Main story</button>
+          <button type="button" data-tier="recommended" aria-pressed="false">Recommended</button>
+          <button type="button" data-tier="all" aria-pressed="true">Everything</button>
+        </div>
+      </div>
+    </header>
+
+    <div class="stage">
+      <main class="scroller" id="scroller">
+        <Timeline data={data} />
+        <footer class="foot">
+          <ul class="legend">
+            <li><span class="dot t-essential"></span> Main story</li>
+            <li><span class="dot t-recommended"></span> Recommended</li>
+            <li><span class="dot t-optional"></span> Optional</li>
+            <li><span class="dot t-recommended k-series"></span> Series or special</li>
+            <li><span class="link-sample"></span> Crosses into another universe</li>
+          </ul>
+          <p>
+            Titles in the same column happen at the same point in the story. Year labels follow each universe's own
+            clock. Posters come from TMDB; this product uses the TMDB API but is not endorsed or certified by TMDB.
+            Unofficial fan guide, not affiliated with Marvel or Disney.
+          </p>
+        </footer>
+      </main>
+      <aside class="panel" id="panel" aria-label="Title details" hidden></aside>
+    </div>
+
+    <div class="card" id="card" hidden></div>
+
+    <script type="application/json" id="codex-data" set:html={json} />
+    <script>
+      import '../scripts/timeline.ts';
+    </script>
+  </body>
+</html>

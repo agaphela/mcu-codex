@@ -1,0 +1,218 @@
+[
+  {
+    "id": "x-men-first-class",
+    "title": "X-Men: First Class",
+    "type": "film",
+    "release": "2011-06-03",
+    "lane": "fox-xmen",
+    "beat": 1962,
+    "year": "1962",
+    "tier": "recommended",
+    "short": "Charles Xavier and Erik Lehnsherr meet, form the first X-Men, and split over how mutants should live.",
+    "plot": [
+      "Telepath Charles Xavier and Holocaust survivor Erik Lehnsherr, who controls metal, are recruited by the CIA to stop Sebastian Shaw, a mutant trying to start a nuclear war during the Cuban Missile Crisis. They gather young mutants including Raven (Mystique) and Hank McCoy (Beast).",
+      "They stop the war, but Erik kills Shaw and a deflected bullet paralyses Charles. Erik leaves with Raven to fight for mutants as Magneto. Charles opens his school."
+    ],
+    "main": ["charles-xavier", "erik-lehnsherr", "mystique", "sebastian-shaw"],
+    "supporting": ["hank-mccoy-fox", "moira-mactaggert", "emma-frost", "alex-summers", "banshee", "azazel", "logan"]
+  },
+  {
+    "id": "x-men-days-of-future-past",
+    "title": "X-Men: Days of Future Past",
+    "type": "film",
+    "release": "2014-05-23",
+    "lane": "fox-xmen",
+    "beat": 1973,
+    "year": "1973 / 2023",
+    "tier": "essential",
+    "short": "Wolverine's mind is sent back to 1973 to prevent a future where Sentinels wipe out mutants. The timeline is rewritten.",
+    "plot": [
+      "In 2023, Sentinel robots that adapt to any power have nearly exterminated mutants. Kitty Pryde sends Logan's consciousness into his 1973 body to stop the event that started it: Mystique's assassination of Sentinel inventor Bolivar Trask, after which her captured DNA was used to perfect the machines.",
+      "Logan has to reunite a broken young Charles with Erik, who is in a cell beneath the Pentagon. Erik decides to solve the problem by killing Mystique, then by attacking the President. Charles persuades Mystique to spare Trask.",
+      "The future changes. Logan wakes in a peaceful school where Jean Grey and Scott Summers are alive. This reset is why the Fox series has two versions of its history, and it is the best-known example of timeline rewriting before the MCU's own."
+    ],
+    "main": ["logan", "charles-xavier", "erik-lehnsherr", "mystique", "bolivar-trask"],
+    "supporting": ["hank-mccoy-fox", "kitty-pryde", "quicksilver-fox", "storm", "bobby-drake", "william-stryker", "colossus", "bishop", "blink", "jean-grey", "scott-summers", "rogue"]
+  },
+  {
+    "id": "x-men-origins-wolverine",
+    "title": "X-Men Origins: Wolverine",
+    "type": "film",
+    "release": "2009-05-01",
+    "lane": "fox-xmen",
+    "beat": 1979,
+    "year": "1845–1979",
+    "tier": "optional",
+    "short": "How Logan got his adamantium skeleton and lost his memory.",
+    "plot": [
+      "James Howlett and his brother Victor fight through a century of wars before joining William Stryker's mutant unit. Logan leaves, is drawn into the Weapon X programme that bonds adamantium to his bones, and loses his memory to an adamantium bullet. Its version of Wade Wilson was later mocked and erased by the Deadpool films."
+    ],
+    "main": ["logan", "victor-creed", "william-stryker"],
+    "supporting": ["kayla-silverfox", "gambit-origins", "wade-wilson-origins", "scott-summers", "charles-xavier"]
+  },
+  {
+    "id": "x-men-apocalypse",
+    "title": "X-Men: Apocalypse",
+    "type": "film",
+    "release": "2016-05-27",
+    "lane": "fox-xmen",
+    "beat": 1983,
+    "year": "1983",
+    "tier": "optional",
+    "short": "The first mutant wakes in 1983 and recruits Magneto to remake the world.",
+    "plot": [
+      "The ancient mutant En Sabah Nur awakens and gathers four followers, including a grieving Erik and a young Storm. A new class at the school, with Jean Grey, Scott Summers and Nightcrawler, helps stop him. Jean unleashes a vast power to finish the fight."
+    ],
+    "main": ["charles-xavier", "erik-lehnsherr", "mystique", "apocalypse"],
+    "supporting": ["jean-grey", "scott-summers", "nightcrawler", "storm", "hank-mccoy-fox", "quicksilver-fox", "psylocke", "angel", "moira-mactaggert", "william-stryker", "logan", "alex-summers"]
+  },
+  {
+    "id": "x-men-dark-phoenix",
+    "title": "Dark Phoenix",
+    "type": "film",
+    "release": "2019-06-07",
+    "lane": "fox-xmen",
+    "beat": 1992,
+    "year": "1992",
+    "tier": "optional",
+    "short": "Jean Grey absorbs a cosmic force that makes her unstoppable and unstable.",
+    "plot": [
+      "On a space rescue Jean absorbs a cosmic energy. It breaks down the mental walls Charles built to hide her childhood trauma, and she kills Mystique by accident. Aliens want the force for themselves. Jean carries their leader into space and vanishes."
+    ],
+    "main": ["jean-grey", "charles-xavier", "erik-lehnsherr", "vuk"],
+    "supporting": ["scott-summers", "mystique", "hank-mccoy-fox", "storm", "nightcrawler", "quicksilver-fox"]
+  },
+  {
+    "id": "x-men",
+    "title": "X-Men",
+    "type": "film",
+    "release": "2000-07-14",
+    "lane": "fox-xmen",
+    "beat": 2003.05,
+    "year": "2000s",
+    "tier": "essential",
+    "short": "Wolverine and Rogue find Professor Xavier's school as Magneto plots to turn world leaders into mutants.",
+    "plot": [
+      "Mutants, people born with powers, are feared, and a senator is pushing a registration law. Runaway Rogue, whose touch drains life, meets the amnesiac fighter Logan. Both are taken in by Professor Charles Xavier, who runs a school for mutants and a team, the X-Men: Cyclops, Jean Grey and Storm.",
+      "Xavier's old friend Erik Lehnsherr, Magneto, believes a war with humanity is coming. He builds a machine to turn the world's leaders into mutants, powered by Rogue's life. The X-Men stop him at the Statue of Liberty and he is imprisoned in plastic.",
+      "Xavier and Magneto, friends on opposite sides of the same cause, are the centre of this universe. Both return in Doomsday, played by the same actors."
+    ],
+    "main": ["logan", "charles-xavier", "erik-lehnsherr", "rogue", "jean-grey", "scott-summers", "storm"],
+    "supporting": ["mystique", "victor-creed", "toad", "senator-kelly", "bobby-drake", "kitty-pryde"]
+  },
+  {
+    "id": "x2",
+    "title": "X2",
+    "type": "film",
+    "release": "2003-05-02",
+    "lane": "fox-xmen",
+    "beat": 2003.55,
+    "year": "2000s",
+    "tier": "essential",
+    "short": "The X-Men and Magneto unite against William Stryker, who wants to use Xavier to kill every mutant.",
+    "plot": [
+      "Brainwashed teleporter Nightcrawler attacks the President, giving Colonel William Stryker licence to raid Xavier's school. Stryker, who gave Logan his metal skeleton, kidnaps Xavier and builds a copy of his mind-amplifying machine, Cerebro, to make him kill all mutants.",
+      "The X-Men ally with an escaped Magneto and Mystique. Magneto stops the machine, then turns it on humans instead before the X-Men shut it down. A dam bursts, and Jean Grey holds back the water to let the others escape, apparently dying. A fiery shape moves under the lake."
+    ],
+    "main": ["logan", "charles-xavier", "erik-lehnsherr", "jean-grey", "william-stryker", "nightcrawler"],
+    "supporting": ["scott-summers", "storm", "rogue", "mystique", "bobby-drake", "pyro", "lady-deathstrike", "colossus", "kitty-pryde", "hank-mccoy-fox"]
+  },
+  {
+    "id": "x-men-the-last-stand",
+    "title": "X-Men: The Last Stand",
+    "type": "film",
+    "release": "2006-05-26",
+    "lane": "fox-xmen",
+    "beat": 2006.05,
+    "year": "2006",
+    "tier": "recommended",
+    "short": "A mutant cure divides the world as Jean Grey returns as the Phoenix.",
+    "plot": [
+      "A company announces a cure for mutation. Jean returns from the dead as the Phoenix, a second personality with limitless power; she kills Scott and then Xavier. Magneto recruits her and attacks the cure's source at Alcatraz.",
+      "Beast and the X-Men defend the island. Logan, the only one able to survive near her, kills Jean. Magneto loses his powers to the cure, though it may not be permanent, and Xavier's mind survives in another body."
+    ],
+    "main": ["logan", "jean-grey", "erik-lehnsherr", "storm", "charles-xavier"],
+    "supporting": ["hank-mccoy-fox", "rogue", "bobby-drake", "kitty-pryde", "pyro", "scott-summers", "mystique", "colossus", "angel", "juggernaut", "moira-mactaggert"]
+  },
+  {
+    "id": "the-wolverine",
+    "title": "The Wolverine",
+    "type": "film",
+    "release": "2013-07-26",
+    "lane": "fox-xmen",
+    "beat": 2013.15,
+    "year": "2013",
+    "tier": "optional",
+    "short": "A haunted Logan travels to Japan, where an old acquaintance wants his healing power.",
+    "plot": [
+      "Living alone after killing Jean, Logan is summoned by Yashida, a man he saved at Nagasaki, who offers to take away his immortality. Logan protects Yashida's granddaughter Mariko and loses his adamantium claws. Two years later Xavier and Magneto approach him with a warning, leading into Days of Future Past."
+    ],
+    "main": ["logan", "mariko-yashida", "yukio-wolverine"],
+    "supporting": ["ichiro-yashida", "viper", "jean-grey", "charles-xavier", "erik-lehnsherr"]
+  },
+  {
+    "id": "deadpool",
+    "title": "Deadpool",
+    "type": "film",
+    "release": "2016-02-12",
+    "lane": "fox-xmen",
+    "beat": 2016.05,
+    "year": "2016",
+    "tier": "recommended",
+    "short": "Mercenary Wade Wilson is cured of cancer, disfigured, made unkillable, and goes after the man responsible.",
+    "plot": [
+      "Wade Wilson, diagnosed with terminal cancer, accepts an experimental treatment. The torture that triggers his mutation leaves him scarred and able to heal from anything. He hunts the man who ran the programme, Ajax, and wins back his fiancée Vanessa, talking to the audience throughout."
+    ],
+    "main": ["wade-wilson", "vanessa-carlysle", "ajax"],
+    "supporting": ["colossus", "negasonic-teenage-warhead", "weasel", "blind-al", "dopinder", "angel-dust"]
+  },
+  {
+    "id": "deadpool-2",
+    "title": "Deadpool 2",
+    "type": "film",
+    "release": "2018-05-18",
+    "lane": "fox-xmen",
+    "beat": 2018.05,
+    "year": "2018",
+    "tier": "optional",
+    "short": "Deadpool protects a young mutant from Cable, a soldier from the future.",
+    "plot": [
+      "After Vanessa is killed, Wade tries to save Russell, an abused boy whom the time-travelling soldier Cable has come to kill before he grows into a murderer. Wade forms X-Force, most of whom die at once, apart from the lucky Domino. He then uses Cable's time device to save Vanessa and fix other mistakes."
+    ],
+    "main": ["wade-wilson", "cable", "domino", "russell-collins"],
+    "supporting": ["vanessa-carlysle", "colossus", "negasonic-teenage-warhead", "yukio", "weasel", "blind-al", "dopinder", "juggernaut", "peter-wisdom"]
+  },
+  {
+    "id": "the-new-mutants",
+    "title": "The New Mutants",
+    "type": "film",
+    "release": "2020-08-28",
+    "lane": "fox-xmen",
+    "beat": 2019,
+    "year": "Present day",
+    "tier": "optional",
+    "short": "Five young mutants are held in a hospital that is not what it claims to be.",
+    "plot": [
+      "A horror story loosely tied to the X-Men films. Dani Moonstar wakes in a facility with four other teenagers and learns it is preparing them as weapons. Her power, which makes fears real, nearly kills them all."
+    ],
+    "main": ["dani-moonstar", "illyana-rasputin", "rahne-sinclair"],
+    "supporting": ["sam-guthrie", "roberto-da-costa", "cecilia-reyes"]
+  },
+  {
+    "id": "logan",
+    "title": "Logan",
+    "type": "film",
+    "release": "2017-03-03",
+    "lane": "fox-xmen",
+    "beat": 2024.85,
+    "year": "2029",
+    "tier": "recommended",
+    "short": "In 2029 an ageing Logan dies protecting a girl made from his DNA.",
+    "plot": [
+      "Mutants are nearly gone. Logan, his healing failing, drives a limousine and cares for a ninety-year-old Charles Xavier whose seizures are deadly. A nurse asks him to take a silent girl, Laura, to a refuge. She was made from his DNA and has his claws.",
+      "Charles is killed by a clone of Logan. Logan gets Laura and other children to the border and dies fighting the clone. Laura turns the cross on his grave into an X. Deadpool & Wolverine opens at this grave."
+    ],
+    "main": ["logan", "laura-kinney", "charles-xavier"],
+    "supporting": ["donald-pierce", "caliban", "zander-rice"]
+  }
+]

@@ -1,0 +1,472 @@
+[
+  {
+    "id": "captain-america-the-first-avenger",
+    "title": "Captain America: The First Avenger",
+    "type": "film",
+    "release": "2011-07-22",
+    "lane": "616-films",
+    "beat": 1943,
+    "year": "1943–45",
+    "saga": "Infinity",
+    "phase": 1,
+    "tier": "essential",
+    "short": "A frail kid from Brooklyn becomes the first super-soldier, stops Hydra, and is frozen for seventy years.",
+    "plot": [
+      "During the Second World War, Steve Rogers is repeatedly rejected by the army for his poor health. Dr. Abraham Erskine sees his courage and picks him for a secret programme. A serum turns Steve into a super-soldier, but a Hydra agent kills Erskine and the formula is lost.",
+      "Hydra, led by Johann Schmidt, the Red Skull, has found the Tesseract, a cube of limitless energy (later revealed as the Space Stone), and is building weapons with it. Steve rescues his best friend Bucky Barnes and hundreds of prisoners, then leads the Howling Commandos against Hydra's bases with the help of Peggy Carter and inventor Howard Stark. Bucky falls from a train and is presumed dead.",
+      "Steve boards Schmidt's bomber. The Tesseract seems to vaporise the Red Skull, and Steve crashes the plane into the Arctic to save America's cities, saying goodbye to Peggy over the radio. He wakes in present-day New York, where Nick Fury tells him he has been asleep for almost seventy years."
+    ],
+    "main": ["steve-rogers", "peggy-carter", "bucky-barnes", "red-skull"],
+    "supporting": ["howard-stark", "abraham-erskine", "chester-phillips", "arnim-zola", "dum-dum-dugan", "nick-fury"]
+  },
+  {
+    "id": "captain-marvel",
+    "title": "Captain Marvel",
+    "type": "film",
+    "release": "2019-03-08",
+    "lane": "616-films",
+    "beat": 1995,
+    "year": "1995",
+    "saga": "Infinity",
+    "phase": 3,
+    "tier": "recommended",
+    "short": "A Kree soldier crashes on Earth in 1995 and learns she is human pilot Carol Danvers.",
+    "plot": [
+      "Vers is a soldier of the Kree empire with energy powers and no memory of her past. After a mission against the shape-shifting Skrulls goes wrong she falls to Earth in 1995 and meets a young S.H.I.E.L.D. agent, Nick Fury.",
+      "She discovers she is Carol Danvers, a US Air Force pilot who absorbed the energy of an experimental engine powered by the Tesseract. The Kree, led by her mentor Yon-Rogg and the Supreme Intelligence, stole her memories and have been lying to her: the Skrulls are refugees, not invaders.",
+      "Carol unlocks her full power, defeats the Kree force and promises to find the Skrulls a new home. She leaves Fury a pager for emergencies. Inspired by her call sign, Fury drafts a plan for a team of heroes: the Avengers Initiative."
+    ],
+    "main": ["carol-danvers", "nick-fury", "talos", "yon-rogg"],
+    "supporting": ["maria-rambeau", "monica-rambeau", "mar-vell", "goose", "phil-coulson", "ronan", "korath"]
+  },
+  {
+    "id": "iron-man",
+    "title": "Iron Man",
+    "type": "film",
+    "release": "2008-05-02",
+    "lane": "616-films",
+    "beat": 2008,
+    "year": "2008",
+    "saga": "Infinity",
+    "phase": 1,
+    "tier": "essential",
+    "short": "Weapons maker Tony Stark is captured, builds a suit of armour to escape, and becomes Iron Man.",
+    "plot": [
+      "Billionaire arms dealer Tony Stark is wounded and kidnapped in Afghanistan by the Ten Rings, who demand he build them a missile. With fellow prisoner Ho Yinsen he instead builds a miniature arc reactor to keep shrapnel from his heart and a crude armoured suit to break out. Yinsen dies in the escape.",
+      "Back home, Tony shuts down Stark Industries' weapons division and perfects the armour. His business partner Obadiah Stane, who secretly ordered the kidnapping, steals the reactor design and builds his own giant suit. Tony defeats him with help from his assistant Pepper Potts.",
+      "At a press conference Tony ignores his cover story and announces: I am Iron Man. Afterwards Nick Fury visits to talk about the Avengers Initiative."
+    ],
+    "main": ["tony-stark", "pepper-potts", "james-rhodes", "obadiah-stane"],
+    "supporting": ["happy-hogan", "ho-yinsen", "phil-coulson", "jarvis", "nick-fury"]
+  },
+  {
+    "id": "iron-man-2",
+    "title": "Iron Man 2",
+    "type": "film",
+    "release": "2010-05-07",
+    "lane": "616-films",
+    "beat": 2010,
+    "year": "2010",
+    "saga": "Infinity",
+    "phase": 1,
+    "tier": "optional",
+    "short": "Tony is being poisoned by his own reactor while a rival with a grudge copies his technology.",
+    "plot": [
+      "The palladium in Tony's arc reactor is slowly killing him, and the US government wants his armour. Ivan Vanko, whose father once worked with Howard Stark, builds his own reactor and attacks Tony in Monaco, then teams up with rival industrialist Justin Hammer.",
+      "Nick Fury and undercover agent Natasha Romanoff push Tony to study his father's old work, which leads him to create a new element that cures him. James Rhodes takes a suit and becomes War Machine, and the two defeat Vanko's drones. In the desert, Agent Coulson finds a hammer in a crater."
+    ],
+    "main": ["tony-stark", "pepper-potts", "james-rhodes", "natasha-romanoff", "ivan-vanko"],
+    "supporting": ["justin-hammer", "nick-fury", "happy-hogan", "phil-coulson", "howard-stark", "jarvis"]
+  },
+  {
+    "id": "the-incredible-hulk",
+    "title": "The Incredible Hulk",
+    "type": "film",
+    "release": "2008-06-13",
+    "lane": "616-films",
+    "beat": 2010.1,
+    "year": "2010",
+    "saga": "Infinity",
+    "phase": 1,
+    "tier": "optional",
+    "short": "Bruce Banner hunts for a cure while General Ross hunts him.",
+    "plot": [
+      "Scientist Bruce Banner turns into the Hulk when his heart rate rises, the result of a failed attempt to recreate the super-soldier serum. He hides in Brazil until General Thaddeus Ross tracks him down.",
+      "Soldier Emil Blonsky takes the serum and Banner's blood and becomes the monstrous Abomination. Banner lets himself fall into Harlem as the Hulk and defeats him, then disappears again. Scientist Samuel Sterns is exposed to Banner's blood, a thread picked up years later in Captain America: Brave New World."
+    ],
+    "main": ["bruce-banner", "betty-ross", "thaddeus-ross", "emil-blonsky"],
+    "supporting": ["samuel-sterns", "tony-stark"]
+  },
+  {
+    "id": "thor",
+    "title": "Thor",
+    "type": "film",
+    "release": "2011-05-06",
+    "lane": "616-films",
+    "beat": 2010.2,
+    "year": "2010",
+    "saga": "Infinity",
+    "phase": 1,
+    "tier": "recommended",
+    "short": "The arrogant god of thunder is banished to Earth while his brother Loki schemes for the throne.",
+    "plot": [
+      "Thor, heir to Asgard, restarts a war with the Frost Giants. His father Odin strips his power and exiles him to New Mexico, sending the hammer Mjolnir after him with a spell: only the worthy may lift it. Thor meets astrophysicist Jane Foster and learns humility.",
+      "Loki discovers he is a Frost Giant adopted by Odin. While Odin sleeps he takes the throne and sends the Destroyer to kill Thor. Thor offers his life for his friends, proves worthy and regains his power. He destroys the Bifrost bridge to stop Loki wiping out the Frost Giants, and Loki lets himself fall into the void. Later, Loki secretly influences Erik Selvig as S.H.I.E.L.D. shows him the Tesseract."
+    ],
+    "main": ["thor", "loki", "jane-foster", "odin"],
+    "supporting": ["frigga", "heimdall", "sif", "erik-selvig", "darcy-lewis", "phil-coulson", "clint-barton", "volstagg", "fandral", "hogun", "nick-fury"]
+  },
+  {
+    "id": "the-avengers",
+    "title": "The Avengers",
+    "type": "film",
+    "release": "2012-05-04",
+    "lane": "616-films",
+    "beat": 2012,
+    "year": "2012",
+    "saga": "Infinity",
+    "phase": 1,
+    "tier": "essential",
+    "short": "Loki invades Earth with an alien army, and six heroes become a team to stop him.",
+    "plot": [
+      "Loki arrives through the Tesseract carrying a sceptre that controls minds (it holds the Mind Stone). He steals the cube and enslaves Clint Barton and Erik Selvig. Nick Fury brings together Tony Stark, Steve Rogers, Bruce Banner, Thor and Natasha Romanoff, but they argue more than they cooperate.",
+      "Loki lets himself be captured and tears the group apart from inside the Helicarrier. Agent Coulson is killed, and Fury uses his death to unite them. Loki opens a portal above Stark Tower and the Chitauri army pours into New York.",
+      "The Avengers hold the city. When a nuclear missile is fired at Manhattan, Tony flies it through the portal and destroys the Chitauri fleet. Loki is taken to Asgard with the Tesseract. In space, the being who lent Loki the army is revealed: Thanos."
+    ],
+    "main": ["tony-stark", "steve-rogers", "thor", "bruce-banner", "natasha-romanoff", "clint-barton", "loki", "nick-fury"],
+    "supporting": ["phil-coulson", "maria-hill", "erik-selvig", "pepper-potts", "jarvis", "thanos"]
+  },
+  {
+    "id": "iron-man-3",
+    "title": "Iron Man 3",
+    "type": "film",
+    "release": "2013-05-03",
+    "lane": "616-films",
+    "beat": 2012.9,
+    "year": "2012",
+    "saga": "Infinity",
+    "phase": 2,
+    "tier": "optional",
+    "short": "Shaken by New York, Tony faces a terrorist called the Mandarin with almost no armour.",
+    "plot": [
+      "Tony cannot sleep after the Battle of New York and builds suit after suit. When bombings by the Mandarin injure Happy Hogan, Tony dares him to attack, and his home is destroyed.",
+      "Stranded with a broken suit, Tony discovers the Mandarin is an actor, Trevor Slattery. The real villain is Aldrich Killian, whose Extremis treatment turns people into living bombs. Tony and Rhodes rescue the President, Pepper finishes Killian, and Tony has the shrapnel removed from his chest."
+    ],
+    "main": ["tony-stark", "pepper-potts", "james-rhodes", "aldrich-killian"],
+    "supporting": ["trevor-slattery", "happy-hogan", "maya-hansen", "harley-keener", "jarvis", "bruce-banner"]
+  },
+  {
+    "id": "thor-the-dark-world",
+    "title": "Thor: The Dark World",
+    "type": "film",
+    "release": "2013-11-08",
+    "lane": "616-films",
+    "beat": 2013,
+    "year": "2013",
+    "saga": "Infinity",
+    "phase": 2,
+    "tier": "optional",
+    "short": "Jane Foster absorbs the Aether, an Infinity Stone the Dark Elves want to use to end the universe.",
+    "plot": [
+      "Jane stumbles on the Aether (the Reality Stone), waking the Dark Elf Malekith. He attacks Asgard and kills Thor's mother Frigga. Thor frees Loki from prison to help, and Loki appears to die saving him.",
+      "Thor defeats Malekith in London as the Nine Realms align. The Aether is handed to the Collector for safekeeping, away from the Tesseract. Loki, alive, is secretly sitting on Odin's throne in disguise."
+    ],
+    "main": ["thor", "loki", "jane-foster", "malekith"],
+    "supporting": ["odin", "frigga", "heimdall", "sif", "erik-selvig", "darcy-lewis", "the-collector", "volstagg", "fandral", "hogun"]
+  },
+  {
+    "id": "captain-america-the-winter-soldier",
+    "title": "Captain America: The Winter Soldier",
+    "type": "film",
+    "release": "2014-04-04",
+    "lane": "616-films",
+    "beat": 2014,
+    "year": "2014",
+    "saga": "Infinity",
+    "phase": 2,
+    "tier": "essential",
+    "short": "Steve learns Hydra has been hiding inside S.H.I.E.L.D. for decades, and that its assassin is Bucky.",
+    "plot": [
+      "Steve works for S.H.I.E.L.D. but distrusts Project Insight, three Helicarriers able to kill threats before they act. Nick Fury is ambushed by a masked assassin, the Winter Soldier, and seemingly dies after warning Steve to trust no one.",
+      "Steve and Natasha find the preserved mind of Arnim Zola, who reveals that Hydra grew inside S.H.I.E.L.D. from its founding and that Insight will kill millions who might oppose it. The Winter Soldier is Bucky Barnes, brainwashed and kept on ice between missions.",
+      "With new ally Sam Wilson, the Falcon, they bring the Helicarriers down and Natasha leaks every S.H.I.E.L.D. and Hydra secret online. S.H.I.E.L.D. collapses. Bucky pulls Steve from the river and vanishes, beginning to remember who he was."
+    ],
+    "main": ["steve-rogers", "natasha-romanoff", "sam-wilson", "bucky-barnes", "nick-fury", "alexander-pierce"],
+    "supporting": ["maria-hill", "sharon-carter", "brock-rumlow", "arnim-zola", "peggy-carter", "jasper-sitwell"]
+  },
+  {
+    "id": "guardians-of-the-galaxy",
+    "title": "Guardians of the Galaxy",
+    "type": "film",
+    "release": "2014-08-01",
+    "lane": "616-films",
+    "beat": 2014.3,
+    "year": "2014",
+    "saga": "Infinity",
+    "phase": 2,
+    "tier": "recommended",
+    "short": "Five outlaws stop Ronan from wiping out a planet with the Power Stone.",
+    "plot": [
+      "Peter Quill, taken from Earth as a child, steals an orb wanted by the Kree fanatic Ronan. He ends up in prison with the assassin Gamora, Rocket, Groot and Drax. The orb holds the Power Stone, one of six Infinity Stones.",
+      "Ronan takes the Stone and turns on his master Thanos, Gamora's adoptive father. The group, now the Guardians of the Galaxy, defends the planet Xandar. Groot sacrifices himself, and the Guardians share the Stone's energy to destroy Ronan. Quill survives because he is only half human."
+    ],
+    "main": ["peter-quill", "gamora", "drax", "rocket", "groot", "ronan"],
+    "supporting": ["nebula", "yondu", "thanos", "the-collector", "korath", "kraglin", "nova-prime", "howard-the-duck"]
+  },
+  {
+    "id": "guardians-of-the-galaxy-vol-2",
+    "title": "Guardians of the Galaxy Vol. 2",
+    "type": "film",
+    "release": "2017-05-05",
+    "lane": "616-films",
+    "beat": 2014.6,
+    "year": "2014",
+    "saga": "Infinity",
+    "phase": 3,
+    "tier": "optional",
+    "short": "Quill meets his father Ego, a living planet with a plan to consume the universe.",
+    "plot": [
+      "Months after Xandar, Quill is found by Ego, a Celestial who is his father. Ego wants Quill's power to remake every world in his own image, and admits he caused the death of Quill's mother.",
+      "The Guardians, joined by the empath Mantis and Gamora's sister Nebula, destroy Ego's core. Yondu, the pirate who raised Quill, gives his life to save him. The Sovereign create Adam to hunt the team."
+    ],
+    "main": ["peter-quill", "gamora", "drax", "rocket", "groot", "ego"],
+    "supporting": ["yondu", "nebula", "mantis", "kraglin", "ayesha", "stakar-ogord", "howard-the-duck"]
+  },
+  {
+    "id": "avengers-age-of-ultron",
+    "title": "Avengers: Age of Ultron",
+    "type": "film",
+    "release": "2015-05-01",
+    "lane": "616-films",
+    "beat": 2015,
+    "year": "2015",
+    "saga": "Infinity",
+    "phase": 2,
+    "tier": "essential",
+    "short": "Tony's peacekeeping AI, Ultron, decides humanity is the threat. Wanda and Vision join the Avengers.",
+    "plot": [
+      "The Avengers recover Loki's sceptre from Hydra. Tony and Bruce use the gem inside it to build Ultron, an AI meant to protect the world. Ultron wakes, concludes that peace requires human extinction, and escapes into the internet.",
+      "He recruits the twins Wanda and Pietro Maximoff, who blame Stark weapons for their parents' deaths. Wanda's visions split the team and send the Hulk on a rampage. Ultron builds himself a perfect body, but the Avengers steal it. Tony uploads J.A.R.V.I.S. into it and Thor brings it to life: the Vision, with the Mind Stone in his forehead.",
+      "Ultron lifts the city of Sokovia into the sky to drop it like a meteor. The twins change sides and Pietro dies saving Clint. The city is destroyed in the air and Vision ends the last Ultron. Hulk flies off alone, Thor leaves to investigate the Infinity Stones, and Steve and Natasha train a new team. Thanos puts on his gauntlet: Fine, I'll do it myself."
+    ],
+    "main": ["tony-stark", "steve-rogers", "thor", "bruce-banner", "natasha-romanoff", "clint-barton", "ultron", "wanda-maximoff", "vision"],
+    "supporting": ["pietro-maximoff", "nick-fury", "maria-hill", "james-rhodes", "sam-wilson", "laura-barton", "helen-cho", "ulysses-klaue", "erik-selvig", "peggy-carter", "heimdall", "jarvis", "friday", "thanos"]
+  },
+  {
+    "id": "ant-man",
+    "title": "Ant-Man",
+    "type": "film",
+    "release": "2015-07-17",
+    "lane": "616-films",
+    "beat": 2015.5,
+    "year": "2015",
+    "saga": "Infinity",
+    "phase": 2,
+    "tier": "recommended",
+    "short": "Thief Scott Lang inherits a shrinking suit and glimpses the Quantum Realm.",
+    "plot": [
+      "Hank Pym recruits ex-convict Scott Lang to steal a copy of his shrinking technology from his former protégé Darren Cross. Pym's daughter Hope trains Scott, though she wants the job herself.",
+      "Scott beats Cross by shrinking between atoms into the Quantum Realm, a place where time and space stop making sense, and manages to return. That gives Hank hope that his wife Janet, lost there decades ago, is alive. The Quantum Realm later becomes the key to time travel."
+    ],
+    "main": ["scott-lang", "hank-pym", "hope-van-dyne", "darren-cross"],
+    "supporting": ["cassie-lang", "luis", "sam-wilson", "peggy-carter", "howard-stark", "janet-van-dyne"]
+  },
+  {
+    "id": "captain-america-civil-war",
+    "title": "Captain America: Civil War",
+    "type": "film",
+    "release": "2016-05-06",
+    "lane": "616-films",
+    "beat": 2016,
+    "year": "2016",
+    "saga": "Infinity",
+    "phase": 3,
+    "tier": "essential",
+    "short": "A law to control the Avengers, and the truth about Bucky, split the team in two.",
+    "plot": [
+      "After civilians die on a mission in Lagos, 117 countries draft the Sokovia Accords to put the Avengers under UN control. Tony signs; Steve refuses. A bomb at the signing kills King T'Chaka of Wakanda and Bucky is blamed. T'Chaka's son T'Challa, the Black Panther, wants revenge.",
+      "Steve protects Bucky and gathers Sam, Wanda, Clint and Scott Lang. Tony brings Rhodes, Natasha, Vision, T'Challa and a teenager from Queens, Peter Parker. They fight at Leipzig airport; Rhodes is paralysed.",
+      "The real culprit is Helmut Zemo, a Sokovian who lost his family. He shows Tony footage of the brainwashed Bucky killing Tony's parents in 1991. Tony attacks; Steve disables his suit and leaves the shield behind. T'Challa spares Zemo and shelters Bucky in Wakanda. The Avengers are broken, which is exactly how Thanos will find them."
+    ],
+    "main": ["steve-rogers", "tony-stark", "bucky-barnes", "natasha-romanoff", "sam-wilson", "tchalla", "helmut-zemo"],
+    "supporting": ["wanda-maximoff", "vision", "james-rhodes", "clint-barton", "scott-lang", "peter-parker", "sharon-carter", "thaddeus-ross", "tchaka", "may-parker", "everett-ross", "brock-rumlow", "peggy-carter", "howard-stark", "friday"]
+  },
+  {
+    "id": "black-widow",
+    "title": "Black Widow",
+    "type": "film",
+    "release": "2021-07-09",
+    "lane": "616-films",
+    "beat": 2016.2,
+    "year": "2016",
+    "saga": "Multiverse",
+    "phase": 4,
+    "tier": "recommended",
+    "short": "On the run after Civil War, Natasha reunites with her spy family. Introduces Yelena Belova.",
+    "plot": [
+      "Natasha is a fugitive. A package from Yelena Belova, raised with her as a fake sister in an undercover Russian family, leads her back to the Red Room, the programme that made them assassins and now controls its Widows chemically.",
+      "With their fake parents, Alexei (the Red Guardian) and Melina, they destroy the Red Room and free the Widows. After Natasha's death in Endgame, Valentina Allegra de Fontaine tells Yelena that Clint Barton is responsible."
+    ],
+    "main": ["natasha-romanoff", "yelena-belova", "alexei-shostakov", "melina-vostokoff"],
+    "supporting": ["dreykov", "taskmaster", "rick-mason", "thaddeus-ross", "valentina-de-fontaine"]
+  },
+  {
+    "id": "black-panther",
+    "title": "Black Panther",
+    "type": "film",
+    "release": "2018-02-16",
+    "lane": "616-films",
+    "beat": 2016.4,
+    "year": "2016",
+    "saga": "Infinity",
+    "phase": 3,
+    "tier": "essential",
+    "short": "T'Challa becomes king of hidden Wakanda and faces a cousin with a claim to the throne.",
+    "plot": [
+      "Wakanda hides the world's most advanced technology, built on the metal vibranium. T'Challa returns to be crowned and to catch arms dealer Ulysses Klaue.",
+      "Erik Killmonger, the abandoned son of T'Challa's uncle, kills Klaue and challenges for the throne. He wants to arm oppressed people worldwide with Wakandan weapons, and he wins the duel.",
+      "T'Challa survives with help from M'Baku's tribe, his sister Shuri, the spy Nakia and General Okoye, and defeats Killmonger. He ends Wakanda's isolation and opens it to the world. Shuri begins healing Bucky's mind."
+    ],
+    "main": ["tchalla", "erik-killmonger", "shuri", "nakia", "okoye"],
+    "supporting": ["mbaku", "ramonda", "wkabi", "zuri", "everett-ross", "ulysses-klaue", "tchaka", "bucky-barnes"]
+  },
+  {
+    "id": "spider-man-homecoming",
+    "title": "Spider-Man: Homecoming",
+    "type": "film",
+    "release": "2017-07-07",
+    "lane": "616-films",
+    "beat": 2016.7,
+    "year": "2016",
+    "saga": "Infinity",
+    "phase": 3,
+    "tier": "recommended",
+    "short": "Peter Parker wants to be an Avenger and takes on the Vulture alone.",
+    "plot": [
+      "After Civil War, fifteen-year-old Peter is back at school and impatient for a real mission. He finds a crew led by Adrian Toomes selling weapons made from Chitauri wreckage.",
+      "After a ferry is nearly sunk, Tony takes back the suit. Peter learns Toomes is the father of his homecoming date, defeats him in his homemade costume, and turns down a place in the Avengers to stay a neighbourhood hero. Aunt May finds out who he is."
+    ],
+    "main": ["peter-parker", "adrian-toomes", "tony-stark", "ned-leeds"],
+    "supporting": ["may-parker", "happy-hogan", "michelle-jones", "liz-allan", "flash-thompson", "mac-gargan", "aaron-davis", "pepper-potts", "steve-rogers"]
+  },
+  {
+    "id": "doctor-strange",
+    "title": "Doctor Strange",
+    "type": "film",
+    "release": "2016-11-04",
+    "lane": "616-films",
+    "beat": 2017,
+    "year": "2016–17",
+    "saga": "Infinity",
+    "phase": 3,
+    "tier": "essential",
+    "short": "A surgeon who loses his hands finds magic, the multiverse, and the Time Stone.",
+    "plot": [
+      "Arrogant neurosurgeon Stephen Strange ruins his hands in a car crash. Seeking a cure, he reaches Kamar-Taj, where the Ancient One teaches him that this reality is one of many and trains him as a sorcerer alongside Mordo and Wong.",
+      "Her former student Kaecilius wants to hand Earth to Dormammu, ruler of the Dark Dimension. The Ancient One dies, admitting she drew on that dimension herself.",
+      "Strange uses the Eye of Agamotto, which holds the Time Stone, to trap Dormammu in an endless loop until he agrees to leave. Mordo, disgusted by broken rules, walks away. Strange becomes guardian of the New York Sanctum."
+    ],
+    "main": ["stephen-strange", "the-ancient-one", "karl-mordo", "wong", "kaecilius"],
+    "supporting": ["christine-palmer", "dormammu", "thor"]
+  },
+  {
+    "id": "thor-ragnarok",
+    "title": "Thor: Ragnarok",
+    "type": "film",
+    "release": "2017-11-03",
+    "lane": "616-films",
+    "beat": 2017.5,
+    "year": "2017",
+    "saga": "Infinity",
+    "phase": 3,
+    "tier": "essential",
+    "short": "Thor loses his hammer, his father and his home, and leads Asgard's survivors into space.",
+    "plot": [
+      "Odin dies, releasing his firstborn Hela, goddess of death. She shatters Mjolnir and takes Asgard. Thor is thrown onto Sakaar, where the Grandmaster makes him fight his champion: the Hulk, missing since Sokovia.",
+      "Thor escapes with Hulk, Loki and a fallen Valkyrie. Hela draws power from Asgard itself, so Thor has Loki unleash the fire demon Surtur to bring about Ragnarok and destroy the realm with her in it. Thor loses an eye.",
+      "Asgard is a people, not a place. The survivors sail for Earth, with the Tesseract hidden in Loki's pocket, until a vast warship blocks their path. It belongs to Thanos."
+    ],
+    "main": ["thor", "loki", "hela", "bruce-banner", "valkyrie"],
+    "supporting": ["the-grandmaster", "odin", "heimdall", "skurge", "korg", "stephen-strange", "surtur"]
+  },
+  {
+    "id": "ant-man-and-the-wasp",
+    "title": "Ant-Man and the Wasp",
+    "type": "film",
+    "release": "2018-07-06",
+    "lane": "616-films",
+    "beat": 2018,
+    "year": "2018",
+    "saga": "Infinity",
+    "phase": 3,
+    "tier": "optional",
+    "short": "Scott, Hope and Hank rescue Janet from the Quantum Realm.",
+    "plot": [
+      "Under house arrest after Civil War, Scott helps Hope, now the Wasp, and Hank build a tunnel to the Quantum Realm while dodging a phasing thief called Ghost. They bring Janet van Dyne home.",
+      "Scott goes back in to collect quantum energy. While he is inside, Hank, Janet and Hope turn to dust. He is stranded, which sets up Endgame."
+    ],
+    "main": ["scott-lang", "hope-van-dyne", "hank-pym", "janet-van-dyne", "ava-starr"],
+    "supporting": ["bill-foster", "cassie-lang", "luis", "jimmy-woo", "sonny-burch"]
+  },
+  {
+    "id": "avengers-infinity-war",
+    "title": "Avengers: Infinity War",
+    "type": "film",
+    "release": "2018-04-27",
+    "lane": "616-films",
+    "beat": 2018.3,
+    "year": "2018",
+    "saga": "Infinity",
+    "phase": 3,
+    "tier": "essential",
+    "short": "Thanos collects all six Infinity Stones and erases half of all life.",
+    "plot": [
+      "Thanos, already holding the Power Stone, attacks the Asgardian ship, takes the Space Stone and kills Loki and Heimdall. Hulk is sent to Earth to warn Strange and Tony. Thanos believes the universe can only survive if half its population dies.",
+      "Tony, Strange and Peter Parker ride an enemy ship to Titan and meet the Guardians. Thanos takes the Reality Stone, then sacrifices Gamora on Vormir for the Soul Stone. On Titan the heroes nearly remove his gauntlet until a grieving Quill loses control. Strange, who has seen fourteen million futures and one victory, gives up the Time Stone to save Tony's life.",
+      "On Earth, Steve's team takes Vision to Wakanda to remove the Mind Stone safely. Thor arrives with a new axe, Stormbreaker, with Rocket and Groot. Wanda destroys the stone, and Vision with it, but Thanos reverses time and tears it from his head. Thor wounds him, but not in the head.",
+      "Thanos snaps his fingers. Half of all living things turn to dust, including Bucky, T'Challa, Sam, Wanda, Strange, Peter and most of the Guardians. Nick Fury sends a last signal to Captain Marvel."
+    ],
+    "main": ["thanos", "tony-stark", "steve-rogers", "thor", "stephen-strange", "peter-parker", "gamora", "bruce-banner", "wanda-maximoff", "vision"],
+    "supporting": ["natasha-romanoff", "peter-quill", "rocket", "groot", "drax", "mantis", "nebula", "tchalla", "bucky-barnes", "sam-wilson", "james-rhodes", "wong", "loki", "heimdall", "okoye", "shuri", "mbaku", "pepper-potts", "ebony-maw", "proxima-midnight", "corvus-glaive", "cull-obsidian", "eitri", "red-skull", "the-collector", "ned-leeds", "thaddeus-ross", "nick-fury", "maria-hill", "friday"]
+  },
+  {
+    "id": "avengers-endgame",
+    "title": "Avengers: Endgame",
+    "type": "film",
+    "release": "2019-04-26",
+    "lane": "616-films",
+    "beat": 2023,
+    "year": "2018–2023",
+    "saga": "Infinity",
+    "phase": 3,
+    "tier": "essential",
+    "short": "Five years later the Avengers travel through time to borrow the Stones and undo the Snap.",
+    "plot": [
+      "The survivors find Thanos, but he has destroyed the Stones. Thor beheads him. Five years pass. Scott Lang escapes the Quantum Realm, where only hours went by, and suggests it could be used to travel in time. Tony, now a father, solves the problem.",
+      "Teams visit 2012 New York, 2013 Asgard and 2014 space to borrow the Stones. Natasha sacrifices herself on Vormir so Clint can take the Soul Stone. In 2012 the plan slips and a past Loki escapes with the Tesseract, which creates the branch followed in the Loki series. Steve and Tony go to 1970 to get the cube back.",
+      "Bruce, now Smart Hulk, snaps everyone back. A 2014 Thanos follows them to the present and destroys Avengers headquarters. Steve lifts Mjolnir, every returned hero arrives through Strange's portals, and Tony takes the Stones and snaps Thanos's army away. It kills him.",
+      "Steve returns the Stones to their moments in time, then stays in the past to live a life with Peggy. He comes back an old man and gives his shield to Sam. Thor leaves New Asgard to Valkyrie and joins the Guardians."
+    ],
+    "main": ["tony-stark", "steve-rogers", "thor", "bruce-banner", "natasha-romanoff", "clint-barton", "scott-lang", "nebula", "thanos"],
+    "supporting": ["rocket", "james-rhodes", "carol-danvers", "pepper-potts", "morgan-stark", "peter-parker", "stephen-strange", "wanda-maximoff", "sam-wilson", "bucky-barnes", "tchalla", "okoye", "valkyrie", "gamora", "peter-quill", "hope-van-dyne", "wong", "loki", "the-ancient-one", "frigga", "howard-stark", "peggy-carter", "happy-hogan", "korg", "red-skull", "laura-barton", "cassie-lang", "hank-pym", "janet-van-dyne", "shuri", "drax", "mantis", "groot", "harley-keener", "jane-foster", "ebony-maw", "friday"]
+  },
+  {
+    "id": "spider-man-far-from-home",
+    "title": "Spider-Man: Far From Home",
+    "type": "film",
+    "release": "2019-07-02",
+    "lane": "616-films",
+    "beat": 2024.3,
+    "year": "2024",
+    "saga": "Infinity",
+    "phase": 3,
+    "tier": "recommended",
+    "short": "On a school trip to Europe, Peter is fooled by Mysterio, who then exposes his identity to the world.",
+    "plot": [
+      "Eight months after the return, Peter is grieving Tony. On a class trip, Nick Fury recruits him to fight elemental monsters alongside Quentin Beck, who says he comes from another Earth. Peter hands Beck the glasses that control Tony's defence drones.",
+      "Beck is a bitter former Stark employee and the monsters are drone illusions. Peter stops him in London and starts dating MJ. In a doctored video released after Beck's death, Peter is framed for murder and named as Spider-Man. Fury was Talos in disguise; the real Fury is in space."
+    ],
+    "main": ["peter-parker", "quentin-beck", "michelle-jones", "nick-fury"],
+    "supporting": ["ned-leeds", "may-parker", "happy-hogan", "maria-hill", "talos", "flash-thompson", "betty-brant", "j-jonah-jameson"]
+  }
+]

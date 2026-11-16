@@ -1,0 +1,13 @@
+[
+  { "id": "616-films", "code": "616", "name": "Sacred Timeline · Films", "color": "#e5484d", "note": "Earth-616, the main MCU reality. This is the main line." },
+  { "id": "616-series", "code": "D+", "name": "Sacred Timeline · Series", "color": "#2dd4bf", "note": "Marvel Studios series and specials set on Earth-616." },
+  { "id": "616-tv", "code": "TV", "name": "Sacred Timeline · Marvel TV", "color": "#8b93a7", "note": "Netflix and ABC-era shows. Loosely tied to Earth-616; the Netflix heroes are now firmly canon." },
+  { "id": "tva", "code": "TVA", "name": "TVA · Outside time", "color": "#ff8a3d", "note": "The Time Variance Authority exists outside every timeline, so it has no year of its own." },
+  { "id": "828", "code": "828", "name": "Earth-828 · Fantastic Four", "color": "#38bdf8", "note": "A retro-future 1960s Earth, home of the Fantastic Four." },
+  { "id": "fox-xmen", "code": "X", "name": "Earth-10005 · Fox X-Men", "color": "#facc15", "note": "The 20th Century Fox X-Men and Deadpool films. Its history was rewritten once, in Days of Future Past." },
+  { "id": "legacy", "code": "LEG", "name": "Legacy universes", "color": "#22c55e", "note": "Older standalone Marvel films (Blade, Daredevil, Elektra, Fantastic Four). Each is its own universe; several heroes resurface in the Void." },
+  { "id": "raimi", "code": "SM1", "name": "Earth-96283 · Raimi Spider-Man", "color": "#60a5fa", "note": "Tobey Maguire's Spider-Man universe." },
+  { "id": "webb", "code": "SM2", "name": "Earth-120703 · Amazing Spider-Man", "color": "#f472b6", "note": "Andrew Garfield's Spider-Man universe." },
+  { "id": "ssu", "code": "SSU", "name": "Sony's Spider-Man Universe", "color": "#84cc16", "note": "Venom, Morbius, Madame Web and Kraven." },
+  { "id": "other", "code": "ALT", "name": "Other universes", "color": "#a78bfa", "note": "What If…? branches, the Spider-Verse, X-Men '97 and other alternate realities." }
+]

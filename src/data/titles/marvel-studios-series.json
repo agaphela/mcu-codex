@@ -1,0 +1,418 @@
+[
+  {
+    "id": "eyes-of-wakanda",
+    "title": "Eyes of Wakanda",
+    "type": "series",
+    "release": "2025-08-01",
+    "lane": "616-series",
+    "beat": 1200,
+    "year": "From 1260 BC",
+    "saga": "Multiverse",
+    "phase": 6,
+    "tier": "optional",
+    "short": "Animated anthology following Wakanda's secret agents as they recover stolen vibranium through history.",
+    "plot": [
+      "Four stories across three thousand years follow the Hatut Zaraze, Wakandan spies sent into the outside world to retrieve vibranium artefacts before they change history. The missions pass through Bronze Age Crete, the Trojan War, Ming China and nineteenth-century Ethiopia, where an Iron Fist of the past appears.",
+      "The final episode ties the missions to the future and to the choice that leads to Killmonger and T'Challa's decision to open Wakanda."
+    ],
+    "main": ["noni", "bkai", "basha"],
+    "supporting": ["the-lion", "jorani-iron-fist", "achilles"]
+  },
+  {
+    "id": "i-am-groot",
+    "title": "I Am Groot",
+    "type": "series",
+    "release": "2022-08-10",
+    "lane": "616-series",
+    "beat": 2014.5,
+    "year": "2014",
+    "saga": "Multiverse",
+    "phase": 4,
+    "tier": "optional",
+    "short": "Short animated comedies about Baby Groot growing up between the first two Guardians films.",
+    "plot": [
+      "A set of five-minute shorts with no bearing on the larger story. Baby Groot gets into trouble aboard the Guardians' ship and on strange planets while the others are busy."
+    ],
+    "main": ["groot"],
+    "supporting": ["rocket"]
+  },
+  {
+    "id": "wandavision",
+    "title": "WandaVision",
+    "type": "series",
+    "release": "2021-01-15",
+    "lane": "616-series",
+    "beat": 2023.3,
+    "year": "2023",
+    "saga": "Multiverse",
+    "phase": 4,
+    "tier": "recommended",
+    "short": "Grieving Vision, Wanda traps a town inside a sitcom and becomes the Scarlet Witch.",
+    "plot": [
+      "Weeks after Endgame, Wanda and a living Vision appear to be starring in a suburban sitcom that moves through the decades. Outside, agents of S.W.O.R.D. find the town of Westview sealed in a field of Wanda's magic, its residents forced to play parts. Wanda created it, a new Vision and twin sons, Billy and Tommy, out of grief.",
+      "Her neighbour Agnes is Agatha Harkness, a centuries-old witch who wants Wanda's power and names what she is: the Scarlet Witch, a being of chaos magic. S.W.O.R.D. rebuilds Vision's original body as a white weapon. Monica Rambeau gains powers passing through the barrier.",
+      "Wanda defeats Agatha and takes down the barrier, which erases her family. White Vision regains his memories and flies away. Wanda retreats to study the Darkhold and hears her sons calling, which leads to Multiverse of Madness."
+    ],
+    "main": ["wanda-maximoff", "vision", "agatha-harkness", "monica-rambeau"],
+    "supporting": ["billy-maximoff", "tommy-maximoff", "darcy-lewis", "jimmy-woo", "tyler-hayward", "ralph-bohner"]
+  },
+  {
+    "id": "the-falcon-and-the-winter-soldier",
+    "title": "The Falcon and the Winter Soldier",
+    "type": "series",
+    "release": "2021-03-19",
+    "lane": "616-series",
+    "beat": 2024,
+    "year": "2024",
+    "saga": "Multiverse",
+    "phase": 4,
+    "tier": "recommended",
+    "short": "Sam gives up the shield, sees it handed to the wrong man, and finally becomes Captain America.",
+    "plot": [
+      "Sam Wilson donates Steve's shield to a museum. The government gives it to soldier John Walker instead. Sam and Bucky pursue the Flag Smashers, a group using a new super-soldier serum, and reluctantly free Zemo to help. Sam meets Isaiah Bradley, a Black super-soldier who was imprisoned and erased from history.",
+      "Walker takes the serum and kills a man with the shield in public. He is discharged and recruited by Valentina Allegra de Fontaine as U.S. Agent. Sam takes up the shield and a Wakandan suit as Captain America. Bucky makes amends for his past. Sharon Carter is revealed as the criminal Power Broker and is pardoned back into the CIA."
+    ],
+    "main": ["sam-wilson", "bucky-barnes", "john-walker", "karli-morgenthau"],
+    "supporting": ["helmut-zemo", "sharon-carter", "isaiah-bradley", "joaquin-torres", "valentina-de-fontaine", "sarah-wilson", "lemar-hoskins", "ayo", "james-rhodes"]
+  },
+  {
+    "id": "hawkeye",
+    "title": "Hawkeye",
+    "type": "series",
+    "release": "2021-11-24",
+    "lane": "616-series",
+    "beat": 2024.81,
+    "year": "Dec 2024",
+    "saga": "Multiverse",
+    "phase": 4,
+    "tier": "optional",
+    "short": "Clint Barton spends the week before Christmas cleaning up his past with young archer Kate Bishop.",
+    "plot": [
+      "Kate Bishop puts on the Ronin costume Clint wore as a vigilante during the five lost years, drawing every gang he hurt. Among them is Maya Lopez, a deaf enforcer whose father Ronin killed. Yelena Belova arrives to kill Clint for Natasha's death.",
+      "Clint tells Yelena the truth about Vormir. The man behind it all is Wilson Fisk, the Kingpin, in business with Kate's mother. Kate beats Fisk, and Maya shoots him."
+    ],
+    "main": ["clint-barton", "kate-bishop", "maya-lopez", "yelena-belova"],
+    "supporting": ["wilson-fisk", "eleanor-bishop", "jack-duquesne", "kazi", "laura-barton", "lucky"]
+  },
+  {
+    "id": "moon-knight",
+    "title": "Moon Knight",
+    "type": "series",
+    "release": "2022-03-30",
+    "lane": "616-series",
+    "beat": 2025.1,
+    "year": "2025",
+    "saga": "Multiverse",
+    "phase": 4,
+    "tier": "optional",
+    "short": "A museum gift-shop worker shares his body with a mercenary who serves an Egyptian moon god.",
+    "plot": [
+      "Mild Steven Grant discovers he is one identity of Marc Spector, who has dissociative identity disorder and serves the god Khonshu as his avatar, Moon Knight. Cult leader Arthur Harrow wants to free the goddess Ammit to judge people before they sin.",
+      "Marc dies, makes peace with Steven in the Egyptian afterlife and returns. With his wife Layla, who becomes the Scarlet Scarab, they seal Ammit away. A third, violent identity, Jake Lockley, still works for Khonshu."
+    ],
+    "main": ["marc-spector", "layla-el-faouly", "arthur-harrow", "khonshu"],
+    "supporting": ["ammit", "taweret"]
+  },
+  {
+    "id": "she-hulk",
+    "title": "She-Hulk: Attorney at Law",
+    "type": "series",
+    "release": "2022-08-18",
+    "lane": "616-series",
+    "beat": 2025.2,
+    "year": "2025",
+    "saga": "Multiverse",
+    "phase": 4,
+    "tier": "optional",
+    "short": "Lawyer Jennifer Walters gets her cousin Bruce Banner's blood and a legal practice for superhumans.",
+    "plot": [
+      "An accident mixes Jennifer's blood with Bruce's and she becomes a Hulk who keeps her own mind. She heads a superhuman law division, representing Emil Blonsky and Wong and dating Matt Murdock, while an online hate group steals her blood.",
+      "Jen breaks the fourth wall to argue with the show's makers about its ending. Bruce returns from Sakaar with a son, Skaar."
+    ],
+    "main": ["jennifer-walters", "bruce-banner", "nikki-ramos", "titania"],
+    "supporting": ["emil-blonsky", "wong", "matt-murdock", "pug", "mallory-book", "todd-phelps", "skaar", "madisynn"]
+  },
+  {
+    "id": "ms-marvel",
+    "title": "Ms. Marvel",
+    "type": "series",
+    "release": "2022-06-08",
+    "lane": "616-series",
+    "beat": 2025.4,
+    "year": "2025",
+    "saga": "Multiverse",
+    "phase": 4,
+    "tier": "optional",
+    "short": "Jersey City teenager Kamala Khan gains powers from a family bangle.",
+    "plot": [
+      "Captain Marvel fan Kamala puts on her great-grandmother's bangle and can create hard light. The trail leads to her family's history in the Partition of India and to exiles from another dimension.",
+      "She protects her community from Damage Control. Her friend Bruno finds something unusual in her genes, a mutation: the first use of the word mutant on Earth-616. The bangle later swaps her with Carol Danvers, leading into The Marvels."
+    ],
+    "main": ["kamala-khan", "bruno-carrelli", "nakia-bahadir", "kamran"],
+    "supporting": ["muneeba-khan", "yusuf-khan", "aamir-khan", "najma", "kareem", "agent-cleary", "carol-danvers"]
+  },
+  {
+    "id": "echo",
+    "title": "Echo",
+    "type": "series",
+    "release": "2024-01-09",
+    "lane": "616-series",
+    "beat": 2025.45,
+    "year": "2025",
+    "saga": "Multiverse",
+    "phase": 5,
+    "tier": "optional",
+    "short": "Maya Lopez returns to her Choctaw family in Oklahoma with Kingpin's empire on her heels.",
+    "plot": [
+      "After shooting Wilson Fisk, Maya goes home and tries to take over his business. Fisk survived and wants her back as a daughter. Maya draws on the abilities of her Choctaw ancestors and uses them to confront his pain instead of killing him. Fisk leaves and starts thinking about running for mayor of New York."
+    ],
+    "main": ["maya-lopez", "wilson-fisk"],
+    "supporting": ["chula", "henry-black-crow", "bonnie", "matt-murdock"]
+  },
+  {
+    "id": "werewolf-by-night",
+    "title": "Werewolf by Night",
+    "type": "special",
+    "release": "2022-10-07",
+    "lane": "616-series",
+    "beat": 2025.6,
+    "year": "2025",
+    "saga": "Multiverse",
+    "phase": 4,
+    "tier": "optional",
+    "short": "Monster hunters compete for a powerful relic, and one of them is a monster himself.",
+    "plot": [
+      "In a black-and-white horror special, hunters gather to compete for the Bloodstone. Jack Russell has come to free his friend, the swamp creature Man-Thing, and is exposed as a werewolf. Elsa Bloodstone helps them and claims her family's stone."
+    ],
+    "main": ["jack-russell", "elsa-bloodstone"],
+    "supporting": ["man-thing", "verussa-bloodstone"]
+  },
+  {
+    "id": "ironheart",
+    "title": "Ironheart",
+    "type": "series",
+    "release": "2025-06-24",
+    "lane": "616-series",
+    "beat": 2025.7,
+    "year": "2025",
+    "saga": "Multiverse",
+    "phase": 5,
+    "tier": "optional",
+    "short": "Riri Williams goes home to Chicago, falls in with a magic-powered crew, and makes a deal with Mephisto.",
+    "plot": [
+      "Expelled from MIT after Wakanda Forever, Riri funds her armour by joining a heist crew led by Parker Robbins, the Hood, whose cloak gives him dark magic. Her suit's AI takes the form of her dead best friend Natalie.",
+      "The cloak's power comes from Mephisto, a devil who trades in desires. Riri beats the Hood but accepts Mephisto's offer to bring Natalie back, at a cost not yet known."
+    ],
+    "main": ["riri-williams", "parker-robbins", "natalie-washington"],
+    "supporting": ["mephisto", "joe-mcgillicuddy", "ronnie-williams", "xavier-washington", "zelma-stanton"]
+  },
+  {
+    "id": "the-guardians-of-the-galaxy-holiday-special",
+    "title": "The Guardians of the Galaxy Holiday Special",
+    "type": "special",
+    "release": "2022-11-25",
+    "lane": "616-series",
+    "beat": 2025.9,
+    "year": "Dec 2025",
+    "saga": "Multiverse",
+    "phase": 4,
+    "tier": "optional",
+    "short": "Mantis and Drax kidnap Kevin Bacon as a Christmas present for Peter Quill.",
+    "plot": [
+      "To cheer up Quill, Mantis and Drax travel to Earth and abduct his childhood hero, actor Kevin Bacon. Mantis tells Quill she is his half-sister, another child of Ego."
+    ],
+    "main": ["mantis", "drax", "peter-quill"],
+    "supporting": ["nebula", "rocket", "groot", "kraglin", "cosmo"]
+  },
+  {
+    "id": "secret-invasion",
+    "title": "Secret Invasion",
+    "type": "series",
+    "release": "2023-06-21",
+    "lane": "616-series",
+    "beat": 2026.3,
+    "year": "2026",
+    "saga": "Multiverse",
+    "phase": 5,
+    "tier": "optional",
+    "short": "Nick Fury returns to Earth to stop a faction of Skrulls who have replaced people in power.",
+    "plot": [
+      "The Skrulls never got the home Fury promised. A rebel, Gravik, has replaced officials worldwide and tries to start a war between the US and Russia. Maria Hill and Talos are killed. James Rhodes turns out to have been replaced by a Skrull for a long time.",
+      "Talos's daughter G'iah gains the powers of many heroes and kills Gravik. The US President declares war on all aliens on Earth."
+    ],
+    "main": ["nick-fury", "talos", "giah", "gravik"],
+    "supporting": ["maria-hill", "james-rhodes", "sonya-falsworth", "varra", "everett-ross"]
+  },
+  {
+    "id": "agatha-all-along",
+    "title": "Agatha All Along",
+    "type": "series",
+    "release": "2024-09-18",
+    "lane": "616-series",
+    "beat": 2026.6,
+    "year": "2026",
+    "saga": "Multiverse",
+    "phase": 5,
+    "tier": "optional",
+    "short": "Agatha Harkness walks the Witches' Road with a teenager who turns out to be Wanda's son.",
+    "plot": [
+      "Three years after WandaVision, a mysterious Teen frees Agatha from Wanda's spell and asks her to take him down the Witches' Road, a trial that grants what you lack. She gathers a coven. Her former lover Rio is Death and wants her.",
+      "Teen is Billy Maximoff, whose soul entered the body of a boy who died as Westview fell. He created the Road himself without knowing. Agatha gives her life for his and stays as a ghost to help him find his brother Tommy."
+    ],
+    "main": ["agatha-harkness", "billy-maximoff", "rio-vidal"],
+    "supporting": ["lilia-calderu", "jennifer-kale", "alice-wu-gulliver", "sharon-davis"]
+  },
+  {
+    "id": "daredevil-born-again",
+    "title": "Daredevil: Born Again",
+    "type": "series",
+    "release": "2025-03-04",
+    "lane": "616-series",
+    "beat": 2026.8,
+    "year": "2026–27",
+    "saga": "Multiverse",
+    "phase": 5,
+    "tier": "optional",
+    "short": "Matt Murdock hangs up the mask as Wilson Fisk becomes mayor of New York and outlaws vigilantes.",
+    "plot": [
+      "Bullseye kills Foggy Nelson and Matt gives up being Daredevil. A year on, Wilson Fisk is elected mayor on an anti-vigilante platform and forms a brutal police task force. Matt learns Vanessa Fisk ordered Foggy's death and puts the suit back on.",
+      "Fisk declares martial law and takes the city. In the second season Matt, Karen Page, Frank Castle and Jessica Jones fight a street-level resistance to bring down his regime."
+    ],
+    "main": ["matt-murdock", "wilson-fisk", "karen-page", "vanessa-fisk"],
+    "supporting": ["foggy-nelson", "frank-castle", "bullseye", "heather-glenn", "bb-urich", "daniel-blake", "hector-ayala", "kirsten-mcduffie", "jessica-jones", "muse"]
+  },
+  {
+    "id": "the-punisher-one-last-kill",
+    "title": "The Punisher: One Last Kill",
+    "type": "special",
+    "release": "2026-05-12",
+    "lane": "616-series",
+    "beat": 2027.1,
+    "year": "2027",
+    "saga": "Multiverse",
+    "phase": 6,
+    "tier": "optional",
+    "provisional": true,
+    "short": "Frank Castle tries to stop being the Punisher and is pulled back in to protect a child.",
+    "plot": [
+      "A one-hour special set after Daredevil: Born Again. Frank Castle attempts to leave the Punisher behind and is drawn back into violence to protect a young girl. It leads into his appearance in Spider-Man: Brand New Day."
+    ],
+    "main": ["frank-castle"],
+    "supporting": []
+  },
+  {
+    "id": "wonder-man",
+    "title": "Wonder Man",
+    "type": "series",
+    "release": "2026-01-27",
+    "lane": "616-series",
+    "beat": 2027.2,
+    "year": "2027",
+    "saga": "Multiverse",
+    "phase": 6,
+    "tier": "optional",
+    "provisional": true,
+    "short": "A struggling actor with secret powers auditions for a superhero film, coached by Trevor Slattery.",
+    "plot": [
+      "Hollywood satire. Simon Williams hides real superpowers, because powered people are barred from acting, while chasing the lead in a remake of the film Wonder Man. He befriends Trevor Slattery, the actor once hired to play the Mandarin, who is quietly informing on him to Damage Control."
+    ],
+    "main": ["simon-williams", "trevor-slattery"],
+    "supporting": ["agent-cleary", "von-kovak"]
+  },
+  {
+    "id": "visionquest",
+    "title": "VisionQuest",
+    "type": "series",
+    "release": "2026-10-14",
+    "lane": "616-series",
+    "beat": 2027.5,
+    "year": "2027",
+    "saga": "Multiverse",
+    "phase": 6,
+    "tier": "optional",
+    "provisional": true,
+    "short": "The white Vision searches for who he is and faces a returned Ultron.",
+    "plot": [
+      "The last part of the story begun in WandaVision. The rebuilt white Vision, holding the memories of the original but not his feelings, tries to work out his identity. Ultron returns in a human form, and Vision's son Tommy appears. Reports of the finale say Ultron attacks London and survives the series."
+    ],
+    "main": ["vision", "ultron"],
+    "supporting": ["tommy-maximoff", "jocasta", "friday", "jarvis"]
+  },
+  {
+    "id": "loki",
+    "title": "Loki",
+    "type": "series",
+    "release": "2021-06-09",
+    "lane": "tva",
+    "beat": 2023.1,
+    "year": "Outside time",
+    "saga": "Multiverse",
+    "phase": 4,
+    "tier": "essential",
+    "crossovers": ["616-films"],
+    "short": "The Loki who escaped in 2012 is arrested by the TVA, the multiverse is unleashed, and he ends up holding it together.",
+    "plot": [
+      "The Loki who took the Tesseract during Endgame's time heist is caught by the Time Variance Authority, an office outside time that prunes any timeline straying from the Sacred Timeline. Agent Mobius recruits him to hunt another variant: Sylvie, a female Loki on the run since childhood.",
+      "Loki and Sylvie discover that everyone at the TVA is a variant with erased memories. At the Citadel at the End of Time they meet He Who Remains, who built the TVA to keep his own variants, the Kangs, from waging a multiversal war. Sylvie kills him. The timeline branches without limit: the multiverse is open.",
+      "In season two the Temporal Loom, the machine that weaves the branches into one, cannot cope and the TVA starts to fail. Loki slips through time over and over, spending centuries learning how to fix it, and fails every time.",
+      "He accepts that the Loom is the problem. He destroys it, takes hold of the dying timelines himself and binds them into a tree, Yggdrasil, with himself on a throne at its centre: the God of Stories, alone, keeping every universe alive. The TVA changes its mission to watching for Kang variants. This is why the multiverse exists in its present form."
+    ],
+    "main": ["loki", "sylvie", "mobius", "he-who-remains"],
+    "supporting": ["ravonna-renslayer", "hunter-b15", "ouroboros", "miss-minutes", "casey", "victor-timely", "classic-loki", "kid-loki", "general-dox", "brad-wolfe"]
+  },
+  {
+    "id": "what-if",
+    "title": "What If…?",
+    "type": "series",
+    "release": "2021-08-11",
+    "lane": "other",
+    "beat": 2023.2,
+    "year": "Branches",
+    "saga": "Multiverse",
+    "phase": 4,
+    "tier": "optional",
+    "short": "Animated anthology. The Watcher shows universes where one choice went differently.",
+    "plot": [
+      "Each episode visits a branch of the multiverse: Peggy Carter takes the serum and becomes Captain Carter, T'Challa becomes Star-Lord, a Strange destroys his universe trying to save Christine, an Ultron wins and collects the Stones.",
+      "The Watcher, sworn only to observe, breaks his oath to assemble heroes against that Ultron and later is put on trial by his own kind. Captain Carter is the lasting character; a version of her appears in Multiverse of Madness."
+    ],
+    "main": ["the-watcher", "captain-carter", "strange-supreme"],
+    "supporting": ["kahhori", "infinity-ultron", "tchalla-star-lord"]
+  },
+  {
+    "id": "marvel-zombies",
+    "title": "Marvel Zombies",
+    "type": "series",
+    "release": "2025-09-24",
+    "lane": "other",
+    "beat": 2023.25,
+    "year": "Zombies",
+    "saga": "Multiverse",
+    "phase": 6,
+    "tier": "optional",
+    "short": "In the What If…? universe overrun by a zombie plague, a few survivors try to end it.",
+    "plot": [
+      "A continuation of the zombie episode of What If…?. Kamala Khan, Riri Williams and Kate Bishop cross a ruined world with a device that might call for help, meeting Shang-Chi, Yelena Belova, the Red Guardian and Blade Knight on the way. The Scarlet Witch rules the dead."
+    ],
+    "main": ["kamala-khan-zombies", "blade-knight"],
+    "supporting": ["zombie-wanda"]
+  },
+  {
+    "id": "your-friendly-neighborhood-spider-man",
+    "title": "Your Friendly Neighborhood Spider-Man",
+    "type": "series",
+    "release": "2025-01-29",
+    "lane": "other",
+    "beat": 2016.75,
+    "year": "Alt. 2016",
+    "saga": "Multiverse",
+    "phase": 5,
+    "tier": "optional",
+    "short": "Animated. In a branch where Norman Osborn mentors Peter Parker instead of Tony Stark.",
+    "plot": [
+      "A different Peter Parker gets his powers when a spider comes through a portal opened in a fight involving Doctor Strange. He interns at Oscorp under Norman Osborn alongside Harry Osborn and Nico Minoru. It stands apart from the main story."
+    ],
+    "main": ["peter-parker-yfnsm", "norman-osborn-yfnsm"],
+    "supporting": ["nico-minoru", "harry-osborn-yfnsm", "lonnie-lincoln"]
+  }
+]
