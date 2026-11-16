@@ -39,12 +39,11 @@ theme differences, keyboard-only use, browsers other than Chromium.
 
 ## Open items for Phase 1
 
-1. **Posters are placeholders.** `src/data/posters.json` is empty, so every title shows a coloured
-   title card. To fix: get a free TMDB "API Read Access Token" and run
-   `TMDB_TOKEN=... npm run posters`, then review the printed matches (remakes and same-name titles
-   can mismatch; `tmdbQuery` on a title overrides the search) and commit `posters.json`.
-   In the cloud session the TMDB host was blocked by the network policy and the request for a
-   token was not answered, so the script has never been run against the real API.
+1. **Posters: done, not yet seen rendered.** `src/data/posters.json` holds TMDB poster paths for all
+   107 titles; every match had the right title and year. The image host (`image.tmdb.org`) is blocked
+   in the cloud session, so the posters have not been viewed in the page. Check them on the live site.
+   To refresh after adding titles: `TMDB_TOKEN=... npm run posters` (in a cloud session the token is
+   injected by the proxy; run with `NODE_USE_ENV_PROXY=1 NODE_EXTRA_CA_CERTS=/root/.ccr/ca-bundle.crt`).
 2. **No direct Disney+ links.** Every title falls back to a JustWatch search for Indonesia. Exact links
    go in a title's `watch` field. Disney+ could not be reached from the cloud session to collect them,
    and the right link format for Disney+ Indonesia is unconfirmed (reports say it still runs on the
@@ -73,13 +72,12 @@ theme differences, keyboard-only use, browsers other than Chromium.
 
 ## Next steps, in order
 
-1. Posters (item 1 above).
-2. Owner review of tiers and plots; fix what is wrong.
-3. Enable Pages, merge to `main`, confirm the deployed site loads under `/mcu-codex`.
-4. Start Phase 2 as described in PLAN.md, beginning with the character data shape and one profile page.
+1. Owner review of tiers and plots; fix what is wrong.
+2. Enable Pages, merge to `main`, confirm the deployed site loads under `/mcu-codex`.
+3. Start Phase 2 as described in PLAN.md, beginning with the character data shape and one profile page.
 
 ## Session log
 
 - **16 Nov 2026.** Planned the project with the owner. Built Phase 1: scaffold, data model, layout
   engine, timeline, panel, filters, phone layout, data for 107 titles, validation, poster script,
-  deploy workflow. Added these two documents.
+  deploy workflow. Added these two documents. Fetched poster paths from TMDB.
