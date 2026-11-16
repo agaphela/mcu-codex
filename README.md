@@ -70,3 +70,8 @@ Until then each title shows a coloured title card.
    spoiler-safe mode; per-season nodes for long series.
 4. **Personal**: watched checklist, progress to Doomsday, offline use, Bahasa Indonesia.
 5. **Later**: Secret Wars, team pages, relationship graph, comic reading suggestions.
+
+## Project documents
+
+- [docs/PLAN.md](docs/PLAN.md): goals, design decisions and the phase plan.
+- [docs/PROGRESS.md](docs/PROGRESS.md): what is built, open items and next steps. Read this first when picking the project up.
