@@ -73,8 +73,8 @@ Static site, no backend: Astro + TypeScript, deployable to GitHub Pages.
   TMDB's general Terms of Use (read 17 Nov 2026, version dated 10 May 2024) add: do not use their
   material with a chatbot or other AI system, do not reach their website by automated means, and
   do not alter their material. In practice: **an AI session should not run `npm run posters` or fetch
-  anything from themoviedb.org; the owner runs the poster lookup by hand.** The TMDB logo should be
-  the official file, downloaded by the owner and stored in `public/`, not loaded from their website.
+  anything from themoviedb.org; the owner runs the poster lookup by hand.** The TMDB logo is the
+  official file supplied by the owner, stored at `public/tmdb-logo.svg`; keep it smaller than the site's own name.
 - **Watch links cannot detect a subscription or an installed app.** A plain https link is correct: the
   phone opens the app if installed, and the service handles sign-in. Per-title links live in a title's
   `watch` field; without one the panel falls back to a JustWatch search for Indonesia.

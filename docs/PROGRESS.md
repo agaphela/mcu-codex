@@ -44,15 +44,12 @@ theme differences, keyboard-only use, browsers other than Chromium.
    in the cloud session, so the posters have not been viewed in the page. Check them on the live site.
    To refresh after adding titles: `TMDB_TOKEN=... npm run posters` (in a cloud session the token is
    injected by the proxy; run with `NODE_USE_ENV_PROXY=1 NODE_EXTRA_CA_CERTS=/root/.ccr/ca-bundle.crt`).
-   The footer's TMDB logo is loaded from a themoviedb.org address written from memory and not verified;
-   if it shows only the text "TMDB", download the official logo from TMDB's logo page into `public/`.
+   The footer's TMDB logo is the official file, stored at `public/tmdb-logo.svg`.
    Poster data was fetched on 16 Nov 2026 and must be refreshed before mid-April 2027 (TMDB's
    6-month limit). The first lookup was run by an AI coding assistant; see the TMDB note in PLAN.md.
    The owner may prefer to re-run `npm run posters` personally.
    Still to do by the owner: add the `TMDB_TOKEN` repository secret and run the "Refresh posters"
-   workflow once (README → Posters); it then repeats every four months on its own. Also download the official TMDB logo
-   (themoviedb.org → About → Logos & Attribution) so it can be stored in `public/` and the footer can
-   stop loading it from TMDB's website.
+   workflow once (README → Posters); it then repeats every four months on its own.
 2. **No direct Disney+ links.** Every title falls back to a JustWatch search for Indonesia. Exact links
    go in a title's `watch` field. Disney+ could not be reached from the cloud session to collect them,
    and the right link format for Disney+ Indonesia is unconfirmed (reports say it still runs on the

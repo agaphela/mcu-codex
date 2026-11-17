@@ -6,6 +6,7 @@ import { loadCodex } from '../lib/data';
 const data = loadCodex();
 // Embedded once so the browser can re-layout and fill the detail panel without a server.
 const json = JSON.stringify(data).replace(/</g, '\\u003c');
+const base = import.meta.env.BASE_URL.replace(/\/?$/, '/');
 ---
 
 <!doctype html>
@@ -57,10 +58,10 @@ const json = JSON.stringify(data).replace(/</g, '\\u003c');
           <p class="tmdb">
             <a href="https://www.themoviedb.org/" target="_blank" rel="noopener">
               <img
-                src="https://www.themoviedb.org/assets/2/v4/logos/v2/blue_short-8e7b30f73a4020692ccca9c88bafe5dcb6f8a62a4c6bc55cd9ba82bb2cd95f6c.svg"
+                src={`${base}tmdb-logo.svg`}
                 alt="TMDB"
-                width="96"
-                height="12"
+                width="56"
+                height="24"
                 loading="lazy"
               />
             </a>
