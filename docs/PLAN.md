@@ -64,7 +64,7 @@ Static site, no backend: Astro + TypeScript, deployable to GitHub Pages.
 ### Constraints to respect
 
 - **Posters are copyrighted.** Store TMDB poster paths only (`src/data/posters.json`), load images from
-  TMDB, keep the attribution line in the footer.
+  TMDB, and keep the TMDB logo and their exact required notice in the footer (API Terms of Use, section 3).
 - **Watch links cannot detect a subscription or an installed app.** A plain https link is correct: the
   phone opens the app if installed, and the service handles sign-in. Per-title links live in a title's
   `watch` field; without one the panel falls back to a JustWatch search for Indonesia.

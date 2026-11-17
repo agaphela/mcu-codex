@@ -373,6 +373,19 @@ button {
   --lane: var(--accent);
 }
 
+.tmdb {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 6px 10px;
+}
+
+.tmdb a {
+  display: inline-flex;
+  color: var(--text);
+  font-weight: 700;
+}
+
 .link-sample {
   height: 18px;
   border-left: 2px dashed var(--accent);
