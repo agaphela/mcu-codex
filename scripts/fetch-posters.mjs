@@ -1,0 +1,48 @@
+// Looks up each title on TMDB and records its poster path in src/data/posters.json.
+// Needs a TMDB "API Read Access Token": TMDB_TOKEN=... npm run posters
+// Only poster paths are stored; the images themselves stay on TMDB's servers.
+// TMDB's API terms forbid keeping their data longer than 6 months, so every run
+// looks all titles up again and stamps the date. Re-run at least every 5 months.
+import { writeFileSync } from 'node:fs';
+import { dataDir, readJson, readTitles } from './lib.mjs';
+
+const token = process.env.TMDB_TOKEN;
+if (!token) {
+  console.error('Set TMDB_TOKEN to your TMDB "API Read Access Token" first. See README.md → Posters.');
+  process.exit(1);
+}
+const posters = {};
+const missing = [];
+
+async function search(kind, query, year) {
+  const url = new URL(`https://api.themoviedb.org/3/search/${kind}`);
+  url.searchParams.set('query', query);
+  if (year) url.searchParams.set(kind === 'movie' ? 'primary_release_year' : 'first_air_date_year', year);
+  const res = await fetch(url, { headers: { Authorization: `Bearer ${token}`, Accept: 'application/json' } });
+  if (!res.ok) throw new Error(`TMDB answered ${res.status} for "${query}"`);
+  return (await res.json()).results ?? [];
+}
+
+for (const t of readTitles()) {
+  const query = t.tmdbQuery ?? t.title;
+  const year = t.release.slice(0, 4);
+  // Specials are filed as movies on TMDB; try the likelier kind first, then the other.
+  const kinds = t.type === 'series' ? ['tv', 'movie'] : ['movie', 'tv'];
+  let hit;
+  for (const kind of kinds) {
+    hit = (await search(kind, query, year)).find((r) => r.poster_path)
+      ?? (await search(kind, query)).find((r) => r.poster_path);
+    if (hit) break;
+  }
+  if (hit) {
+    posters[t.id] = hit.poster_path;
+    console.log(`✓ ${t.title} → ${hit.title ?? hit.name} (${(hit.release_date ?? hit.first_air_date ?? '').slice(0, 4)})`);
+  } else {
+    missing.push(t.title);
+  }
+}
+
+const sorted = Object.fromEntries(Object.entries(posters).sort(([a], [b]) => a.localeCompare(b)));
+const fetchedAt = new Date().toISOString().slice(0, 10);
+writeFileSync(dataDir + 'posters.json', JSON.stringify({ fetchedAt, paths: sorted }, null, 2) + '\n');
+console.log(`\n${Object.keys(sorted).length} posters saved.` + (missing.length ? ` Not found: ${missing.join(', ')}` : ''));

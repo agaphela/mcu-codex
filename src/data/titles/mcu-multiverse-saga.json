@@ -1,0 +1,310 @@
+[
+  {
+    "id": "shang-chi",
+    "title": "Shang-Chi and the Legend of the Ten Rings",
+    "type": "film",
+    "release": "2021-09-03",
+    "lane": "616-films",
+    "beat": 2024.1,
+    "year": "2024",
+    "saga": "Multiverse",
+    "phase": 4,
+    "tier": "recommended",
+    "short": "A hotel valet is pulled back into the criminal empire of his immortal father.",
+    "plot": [
+      "Shaun, a valet in San Francisco, is really Shang-Chi, trained as an assassin by his father Wenwu. Wenwu has lived a thousand years thanks to ten mystical rings and leads the real Ten Rings organisation.",
+      "Wenwu believes his dead wife is calling from behind a gate in her home village, Ta Lo. The voice is the Dweller-in-Darkness, a soul-eating creature. Shang-Chi, his sister Xialing and his friend Katy defend the village. Wenwu dies passing the rings to his son, who kills the Dweller.",
+      "Wong, Bruce Banner and Carol Danvers examine the rings: they are far older than believed and are sending a signal somewhere. Xialing takes over the Ten Rings."
+    ],
+    "main": ["shang-chi", "wenwu", "katy-chen", "xialing"],
+    "supporting": ["ying-nan", "ying-li", "trevor-slattery", "wong", "razor-fist", "emil-blonsky", "bruce-banner", "carol-danvers"]
+  },
+  {
+    "id": "eternals",
+    "title": "Eternals",
+    "type": "film",
+    "release": "2021-11-05",
+    "lane": "616-films",
+    "beat": 2024.5,
+    "year": "2024",
+    "saga": "Multiverse",
+    "phase": 4,
+    "tier": "optional",
+    "short": "Immortal guardians learn Earth is an egg for a Celestial, and must choose between their makers and humanity.",
+    "plot": [
+      "The Eternals were sent to Earth seven thousand years ago by the Celestial Arishem to kill the monstrous Deviants, and were forbidden to interfere in anything else. In the present their leader Ajak is found dead.",
+      "Sersi learns the truth: Earth is incubating a new Celestial, Tiamut, whose birth will destroy the planet now that the return of half of all life has supplied enough energy. Ikaris killed Ajak to protect the plan.",
+      "The group turns Tiamut to stone as he emerges from the ocean. Ikaris flies into the sun. Arishem takes Sersi, Kingo and Phastos away to judge whether humanity deserves to live. Dane Whitman is about to take up the Ebony Blade."
+    ],
+    "main": ["sersi", "ikaris", "thena", "ajak"],
+    "supporting": ["kingo", "phastos", "makkari", "druig", "gilgamesh", "sprite", "dane-whitman", "arishem", "eros", "pip"]
+  },
+  {
+    "id": "spider-man-no-way-home",
+    "title": "Spider-Man: No Way Home",
+    "type": "film",
+    "release": "2021-12-17",
+    "lane": "616-films",
+    "beat": 2024.8,
+    "year": "2024",
+    "saga": "Multiverse",
+    "phase": 4,
+    "tier": "essential",
+    "crossovers": ["raimi", "webb", "ssu"],
+    "short": "A broken spell pulls villains and two other Spider-Men out of their universes. To fix it, everyone must forget Peter Parker.",
+    "plot": [
+      "With his identity public, Peter's life and his friends' futures fall apart. He asks Doctor Strange to make the world forget he is Spider-Man, then keeps changing the spell while it is cast. It goes wrong and starts drawing in people from other universes who know that Peter Parker is Spider-Man.",
+      "Doctor Octopus, the Green Goblin, Sandman, the Lizard and Electro arrive, each taken from the moment before dying at the hands of their own Spider-Man. Peter refuses to send them back to die and tries to cure them. The Goblin turns on him and kills Aunt May, who tells him that with great power there must also come great responsibility.",
+      "Ned accidentally opens portals to two other Peters, from the Raimi and Webb universes. The three Spider-Men cure the villains at the Statue of Liberty. Andrew Garfield's Peter saves MJ, as he could not save Gwen.",
+      "The spell is still tearing reality open. Peter asks Strange to make everyone forget Peter Parker entirely. The visitors go home. MJ, Ned, Happy and the Avengers no longer know him. Alone in a small flat, he sews a new suit. In a bar, a visiting Eddie Brock is pulled back to his universe, leaving a drop of the Venom symbiote behind."
+    ],
+    "main": ["peter-parker", "michelle-jones", "ned-leeds", "stephen-strange", "peter-parker-raimi", "peter-parker-webb", "norman-osborn-raimi"],
+    "supporting": ["may-parker", "happy-hogan", "otto-octavius-raimi", "max-dillon-webb", "flint-marko-raimi", "curt-connors-webb", "wong", "j-jonah-jameson", "matt-murdock", "flash-thompson", "betty-brant", "eddie-brock"]
+  },
+  {
+    "id": "doctor-strange-multiverse-of-madness",
+    "title": "Doctor Strange in the Multiverse of Madness",
+    "type": "film",
+    "release": "2022-05-06",
+    "lane": "616-films",
+    "beat": 2025,
+    "year": "2024",
+    "saga": "Multiverse",
+    "phase": 4,
+    "tier": "essential",
+    "crossovers": ["other"],
+    "short": "Wanda, corrupted by the Darkhold, hunts a girl who can cross universes. Introduces incursions.",
+    "plot": [
+      "America Chavez, a teenager who can punch doorways between universes, is chased into Strange's world by demons. Strange asks Wanda Maximoff for help and realises she sent them. Corrupted by the Darkhold, a book of dark magic, the Scarlet Witch wants America's power so she can live in a universe where her sons exist.",
+      "Wanda destroys Kamar-Taj. Strange and America flee to Earth-838, where the Illuminati hold him: Captain Carter, Black Bolt, Captain Marvel (Maria Rambeau), Reed Richards, Mordo and Professor Charles Xavier. They explain that their own Strange used the Darkhold and caused an incursion, two universes colliding until one or both are destroyed. Wanda possesses her 838 self and kills almost all of them.",
+      "Strange possesses the corpse of another Strange to reach Wanda at Mount Wundagore. America sends her to face the 838 children, who are terrified of her. Horrified, Wanda destroys every copy of the Darkhold and brings the mountain down on herself.",
+      "America stays to train at Kamar-Taj. Strange grows a third eye, a mark of the Darkhold, and the sorceress Clea arrives to tell him he has caused an incursion that must be fixed. Incursions are the engine of the story leading to Doomsday and Secret Wars."
+    ],
+    "main": ["stephen-strange", "wanda-maximoff", "america-chavez", "wong"],
+    "supporting": ["christine-palmer", "karl-mordo", "charles-xavier-838", "reed-richards-838", "captain-carter", "black-bolt", "maria-rambeau", "clea", "billy-maximoff", "tommy-maximoff"]
+  },
+  {
+    "id": "thor-love-and-thunder",
+    "title": "Thor: Love and Thunder",
+    "type": "film",
+    "release": "2022-07-08",
+    "lane": "616-films",
+    "beat": 2025.3,
+    "year": "2025",
+    "saga": "Multiverse",
+    "phase": 4,
+    "tier": "optional",
+    "short": "Thor faces Gorr the God Butcher, and Jane Foster wields Mjolnir.",
+    "plot": [
+      "Gorr, whose god let his daughter die, takes up the Necrosword and vows to kill every god. He abducts the children of New Asgard. Jane Foster, dying of cancer, is chosen by the reforged Mjolnir and becomes the Mighty Thor, though the hammer drains her strength.",
+      "Thor, Jane, Valkyrie and Korg get no help from Zeus. At Eternity, a being that grants one wish, Jane dies helping Thor destroy the sword. Gorr uses the wish to bring back his daughter, Love, and Thor adopts her. Jane enters Valhalla. Zeus sends his son Hercules after Thor."
+    ],
+    "main": ["thor", "jane-foster", "gorr", "valkyrie"],
+    "supporting": ["korg", "zeus", "love", "sif", "peter-quill", "nebula", "drax", "mantis", "rocket", "groot", "kraglin", "heimdall", "hercules", "axl-heimdallson"]
+  },
+  {
+    "id": "black-panther-wakanda-forever",
+    "title": "Black Panther: Wakanda Forever",
+    "type": "film",
+    "release": "2022-11-11",
+    "lane": "616-films",
+    "beat": 2025.5,
+    "year": "2025",
+    "saga": "Multiverse",
+    "phase": 4,
+    "tier": "essential",
+    "short": "After T'Challa's death, Wakanda clashes with Namor's undersea kingdom, and Shuri becomes the Black Panther.",
+    "plot": [
+      "King T'Challa dies of an illness. A year later, other nations are hunting for vibranium and find it under the ocean. That exposes Talokan, a hidden kingdom ruled by Namor, a centuries-old mutant with winged ankles.",
+      "Namor demands Wakanda hand over Riri Williams, the student who built the vibranium detector, or join him in war on the surface. When Wakanda refuses he floods the capital, and Queen Ramonda drowns.",
+      "Shuri recreates the heart-shaped herb and becomes the Black Panther. She defeats Namor but spares him, and the two nations form an uneasy alliance. In Haiti, Nakia introduces Shuri to T'Challa's young son. Shuri, Namor and M'Baku are all part of the Doomsday line-up."
+    ],
+    "main": ["shuri", "namor", "ramonda", "okoye", "nakia"],
+    "supporting": ["mbaku", "riri-williams", "everett-ross", "valentina-de-fontaine", "namora", "attuma", "aneka", "erik-killmonger", "toussaint"]
+  },
+  {
+    "id": "ant-man-and-the-wasp-quantumania",
+    "title": "Ant-Man and the Wasp: Quantumania",
+    "type": "film",
+    "release": "2023-02-17",
+    "lane": "616-films",
+    "beat": 2026,
+    "year": "2026",
+    "saga": "Multiverse",
+    "phase": 5,
+    "tier": "recommended",
+    "short": "Scott's family is pulled into the Quantum Realm and meets the exiled Kang the Conqueror.",
+    "plot": [
+      "Cassie Lang builds a device that drags her, Scott, Hope, Hank and Janet into the Quantum Realm. Janet has been hiding something: during her decades there she befriended a stranded traveller, Kang, then sabotaged his ship when she learned he destroys entire timelines.",
+      "Kang forces Scott to recover his power core. The family and the realm's rebels fight back and Kang is apparently destroyed. Elsewhere a vast Council of Kangs, his variants from across the multiverse, takes notice. The Kang storyline was later set aside, and Doctor Doom takes over as the saga's villain."
+    ],
+    "main": ["scott-lang", "hope-van-dyne", "cassie-lang", "kang", "janet-van-dyne", "hank-pym"],
+    "supporting": ["darren-cross", "lord-krylar", "jentorra", "quaz", "victor-timely", "loki", "mobius"]
+  },
+  {
+    "id": "guardians-of-the-galaxy-vol-3",
+    "title": "Guardians of the Galaxy Vol. 3",
+    "type": "film",
+    "release": "2023-05-05",
+    "lane": "616-films",
+    "beat": 2026.2,
+    "year": "2026",
+    "saga": "Multiverse",
+    "phase": 5,
+    "tier": "optional",
+    "short": "The Guardians race to save Rocket from his creator, and the team goes its separate ways.",
+    "plot": [
+      "Adam Warlock attacks Knowhere and Rocket is left dying; a kill switch stops him being healed. The Guardians go after his creator, the High Evolutionary, who engineers species in pursuit of a perfect society and wants Rocket's brain.",
+      "They save Rocket and thousands of caged children and animals. Quill returns to Earth to see his grandfather, Mantis leaves to find herself, Nebula and Drax stay to raise the children, and Rocket leads a new team."
+    ],
+    "main": ["peter-quill", "rocket", "nebula", "gamora", "drax", "mantis", "groot", "high-evolutionary"],
+    "supporting": ["adam-warlock", "kraglin", "cosmo", "ayesha", "lylla", "phyla", "stakar-ogord", "howard-the-duck"]
+  },
+  {
+    "id": "the-marvels",
+    "title": "The Marvels",
+    "type": "film",
+    "release": "2023-11-10",
+    "lane": "616-films",
+    "beat": 2026.5,
+    "year": "2026",
+    "saga": "Multiverse",
+    "phase": 5,
+    "tier": "recommended",
+    "crossovers": ["fox-xmen"],
+    "short": "Carol Danvers, Monica Rambeau and Kamala Khan swap places whenever they use their powers.",
+    "plot": [
+      "Kree leader Dar-Benn finds a Quantum Band, the twin of Kamala Khan's bangle, and tears holes in space to steal resources for her dying world. The damage entangles the powers of Carol, Monica and Kamala.",
+      "Dar-Benn dies trying to use both bands and rips a hole between universes. Monica closes it from the far side and is stranded. She wakes in another reality beside a version of her mother and Beast of the X-Men. Back home, Kamala starts recruiting young heroes, beginning with Kate Bishop."
+    ],
+    "main": ["carol-danvers", "monica-rambeau", "kamala-khan", "dar-benn"],
+    "supporting": ["nick-fury", "muneeba-khan", "yusuf-khan", "aamir-khan", "prince-yan", "goose", "valkyrie", "kate-bishop", "hank-mccoy-fox", "maria-rambeau"]
+  },
+  {
+    "id": "deadpool-and-wolverine",
+    "title": "Deadpool & Wolverine",
+    "type": "film",
+    "release": "2024-07-26",
+    "lane": "fox-xmen",
+    "beat": 2024.9,
+    "year": "2024",
+    "saga": "Multiverse",
+    "phase": 5,
+    "tier": "essential",
+    "crossovers": ["tva", "legacy"],
+    "short": "The TVA plans to delete Deadpool's dying universe, so he finds another Wolverine to save it.",
+    "plot": [
+      "Wade Wilson has retired. The TVA arrests him: agent Paradox explains that his universe is fading because its anchor being, Logan, died (in the film Logan), and Paradox intends to speed things up with a machine called the Time Ripper.",
+      "Wade searches the multiverse for a replacement Wolverine and ends up with the worst one, a Logan who let his X-Men die. Paradox dumps them both in the Void, the wasteland at the end of time. It is ruled by Cassandra Nova, Charles Xavier's telepathic twin.",
+      "They join forgotten heroes from deleted universes: Elektra, Blade, Gambit, Johnny Storm and X-23. They escape, and Nova follows to turn the Time Ripper on every timeline. Deadpool and Wolverine absorb its energy together and survive. Nova is destroyed.",
+      "The TVA spares Wade's universe and Logan stays there. This film brings the Fox X-Men universe and its heroes into the MCU's multiverse, ahead of their return in Doomsday."
+    ],
+    "main": ["wade-wilson", "logan", "cassandra-nova", "mr-paradox"],
+    "supporting": ["laura-kinney", "elektra-legacy", "blade", "gambit", "johnny-storm-legacy", "hunter-b15", "happy-hogan", "vanessa-carlysle", "peter-wisdom", "colossus", "negasonic-teenage-warhead", "blind-al", "dopinder", "pyro", "nicepool", "dogpool", "victor-creed", "yukio"]
+  },
+  {
+    "id": "captain-america-brave-new-world",
+    "title": "Captain America: Brave New World",
+    "type": "film",
+    "release": "2025-02-14",
+    "lane": "616-films",
+    "beat": 2027,
+    "year": "2027",
+    "saga": "Multiverse",
+    "phase": 5,
+    "tier": "essential",
+    "short": "Sam Wilson, the new Captain America, uncovers a plot to turn the President into a Red Hulk.",
+    "plot": [
+      "Thaddeus Ross is now President. The dead Celestial in the Indian Ocean has been found to contain adamantium, a metal stronger than vibranium, and Ross wants a treaty to share it. At the White House, brainwashed guests including veteran super-soldier Isaiah Bradley try to shoot him.",
+      "Sam and the new Falcon, Joaquin Torres, trace the attack to Samuel Sterns, the scientist exposed to Banner's blood years ago. Ross kept him locked up as a private genius, and Sterns has been dosing Ross with gamma radiation in his heart pills.",
+      "Sam stops a naval battle with Japan over the island. Ross loses control and becomes the Red Hulk, and Sam talks him down. Ross resigns and goes to prison. Sam decides to rebuild the Avengers, and Sterns warns him that other worlds are coming and he will have to defend this one."
+    ],
+    "main": ["sam-wilson", "thaddeus-ross", "joaquin-torres", "samuel-sterns"],
+    "supporting": ["isaiah-bradley", "ruth-bat-seraph", "seth-voelker", "betty-ross", "bucky-barnes", "leila-taylor"]
+  },
+  {
+    "id": "thunderbolts",
+    "title": "Thunderbolts*",
+    "type": "film",
+    "release": "2025-05-02",
+    "lane": "616-films",
+    "beat": 2027.3,
+    "year": "2027",
+    "saga": "Multiverse",
+    "phase": 5,
+    "tier": "essential",
+    "crossovers": ["828"],
+    "short": "A group of disposable operatives is rebranded as the New Avengers after stopping the Sentry.",
+    "plot": [
+      "CIA director Valentina Allegra de Fontaine, facing impeachment, sends her operatives Yelena Belova, John Walker, Ghost and Taskmaster to a vault to kill each other and erase the evidence. Taskmaster dies. The survivors find a confused man named Bob.",
+      "Bob is the one success of Valentina's Sentry project, a man with godlike power and a dark other self, the Void. With Bucky Barnes, now a congressman, and Alexei, the group heads to New York, where Valentina plans to present Sentry as her own hero from the old Avengers Tower.",
+      "The Void takes over and swallows New York in shadow, trapping people in their worst memories. Yelena walks in after Bob, and the team holds him until he lets go. Valentina saves herself by announcing them to the press as the New Avengers.",
+      "Fourteen months later they are disputing the Avengers name with Sam Wilson when a ship from another universe enters orbit. It carries the Fantastic Four's emblem."
+    ],
+    "main": ["yelena-belova", "bucky-barnes", "bob-reynolds", "john-walker", "alexei-shostakov", "ava-starr", "valentina-de-fontaine"],
+    "supporting": ["taskmaster", "mel", "olivia-walker", "congressman-gary"]
+  },
+  {
+    "id": "the-fantastic-four-first-steps",
+    "title": "The Fantastic Four: First Steps",
+    "type": "film",
+    "release": "2025-07-25",
+    "lane": "828",
+    "beat": 2027.4,
+    "year": "1960s",
+    "saga": "Multiverse",
+    "phase": 6,
+    "tier": "essential",
+    "short": "On a retro-future Earth, the Fantastic Four defend their world, and their newborn son, from Galactus.",
+    "plot": [
+      "On Earth-828 the Fantastic Four have been the world's only heroes for four years: Reed Richards, Sue Storm, Johnny Storm and Ben Grimm, changed by cosmic rays on a space flight. Sue is pregnant. The Silver Surfer, Shalla-Bal, arrives to announce that Earth will be eaten by Galactus.",
+      "The four fly out to negotiate. Galactus offers to spare Earth in exchange for the unborn child, who carries the Power Cosmic. They refuse and Franklin is born on the flight home. The world turns on them until Sue wins people back.",
+      "Reed plans to teleport Earth away, but the Surfer wrecks the bridges, so they use the last one as a trap. Johnny reaches Shalla-Bal by decoding her language, and she pushes Galactus through the portal, going with him. Sue dies from the effort and baby Franklin brings her back.",
+      "Four years later, Sue finds a hooded man in a green cloak holding a metal mask and crouching in front of Franklin: Victor von Doom. This is the direct lead-in to Doomsday."
+    ],
+    "main": ["reed-richards", "sue-storm", "johnny-storm", "ben-grimm", "galactus", "shalla-bal"],
+    "supporting": ["franklin-richards", "herbie", "harvey-elder", "rachel-rozman", "lynne-nichols", "victor-von-doom"]
+  },
+  {
+    "id": "spider-man-brand-new-day",
+    "title": "Spider-Man: Brand New Day",
+    "type": "film",
+    "release": "2026-07-31",
+    "lane": "616-films",
+    "beat": 2027.7,
+    "year": "2027–28",
+    "saga": "Multiverse",
+    "phase": 6,
+    "tier": "recommended",
+    "provisional": true,
+    "short": "Forgotten by everyone he loves, Peter Parker fights crime alone in New York while his own body starts to change.",
+    "plot": [
+      "Years after the spell in No Way Home, nobody remembers Peter Parker. He lives alone and works full time as Spider-Man. MJ and Ned have moved on without him. His powers are also changing in ways he does not understand.",
+      "A chase after a runaway tank, also pursued by Frank Castle, the Punisher, ends at the Department of Damage Control and points to someone who can take over other people's minds. Peter asks Bruce Banner for help with what is happening to his body. Street-level criminals including Mac Gargan, the Scorpion, and Tombstone are also on the loose.",
+      "Reports of the story agree that a young woman held and experimented on by Damage Control, played by Sadie Sink, is central to it and is linked to Jean Grey. After the credits, Ned's tracker shows Spider-Man's signal leaving New York and reappearing in outer space."
+    ],
+    "main": ["peter-parker", "frank-castle", "bruce-banner", "michelle-jones"],
+    "supporting": ["ned-leeds", "mac-gargan", "tombstone", "jean-grey-616"]
+  },
+  {
+    "id": "avengers-doomsday",
+    "title": "Avengers: Doomsday",
+    "type": "film",
+    "release": "2026-12-18",
+    "lane": "616-films",
+    "beat": 2099,
+    "year": "Next",
+    "saga": "Multiverse",
+    "phase": 6,
+    "tier": "essential",
+    "upcoming": true,
+    "crossovers": ["828", "fox-xmen", "tva"],
+    "short": "The Avengers, the New Avengers, Wakanda, the Fantastic Four and the original X-Men face Doctor Doom.",
+    "plot": [
+      "Not released yet, so there is no plot to summarise. Directed by Anthony and Joe Russo, it brings together four groups that have never met: Sam Wilson's Avengers, the New Avengers from Thunderbolts*, the Fantastic Four from Earth-828, and the X-Men of the Fox films. Robert Downey Jr. returns to the MCU as a new character, Victor von Doom.",
+      "The threads that lead here: incursions, universes colliding (Multiverse of Madness); the TVA and Loki holding the timelines together (Loki); the Fox universe joining the multiverse (Deadpool & Wolverine); the Fantastic Four's ship arriving on Earth-616 (Thunderbolts*); and Doom finding Franklin Richards (First Steps). The story continues in Avengers: Secret Wars in December 2027."
+    ],
+    "main": ["victor-von-doom", "sam-wilson", "thor", "bucky-barnes", "yelena-belova", "reed-richards", "sue-storm", "johnny-storm", "ben-grimm", "shuri", "namor", "steve-rogers"],
+    "supporting": ["loki", "scott-lang", "john-walker", "bob-reynolds", "alexei-shostakov", "ava-starr", "joaquin-torres", "mbaku", "shang-chi", "charles-xavier", "erik-lehnsherr", "scott-summers", "mystique", "nightcrawler", "hank-mccoy-fox", "gambit", "peggy-carter"]
+  }
+]

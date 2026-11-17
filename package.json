@@ -1,0 +1,29 @@
+{
+  "name": "mcu-codex",
+  "version": "1.0.0",
+  "description": "Interactive Marvel timeline: a road to Avengers: Doomsday",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "validate": "node scripts/validate.mjs",
+    "characters:sync": "node scripts/sync-characters.mjs",
+    "posters": "node scripts/fetch-posters.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agaphela/mcu-codex.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agaphela/mcu-codex/issues"
+  },
+  "homepage": "https://github.com/agaphela/mcu-codex#readme",
+  "dependencies": {
+    "astro": "^7.4.12"
+  },
+  "private": true,
+  "type": "module"
+}

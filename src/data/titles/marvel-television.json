@@ -1,0 +1,180 @@
+[
+  {
+    "id": "agent-carter",
+    "title": "Agent Carter",
+    "type": "series",
+    "release": "2015-01-06",
+    "lane": "616-tv",
+    "beat": 1946,
+    "year": "1946–47",
+    "tier": "optional",
+    "short": "After the war, Peggy Carter works as a spy in a world that would rather she filed paperwork.",
+    "plot": [
+      "Peggy Carter, treated as a secretary at the Strategic Scientific Reserve, secretly helps Howard Stark clear his name with the aid of his butler, Edwin Jarvis. Her work lays the ground for the founding of S.H.I.E.L.D. The series ended after two seasons with threads unresolved."
+    ],
+    "main": ["peggy-carter", "edwin-jarvis", "daniel-sousa"],
+    "supporting": ["howard-stark", "jack-thompson", "dottie-underwood", "whitney-frost", "dum-dum-dugan"]
+  },
+  {
+    "id": "agents-of-shield",
+    "title": "Agents of S.H.I.E.L.D.",
+    "type": "series",
+    "release": "2013-09-24",
+    "lane": "616-tv",
+    "beat": 2013.5,
+    "year": "2013–19",
+    "tier": "optional",
+    "short": "A resurrected Phil Coulson leads a small team through Hydra's uprising, Inhumans, and time travel.",
+    "plot": [
+      "Phil Coulson, secretly revived after The Avengers, runs a field team including hacker Skye, later revealed as the Inhuman Daisy Johnson (Quake). The first season collides with The Winter Soldier when Hydra emerges inside S.H.I.E.L.D.",
+      "Over seven seasons the team deals with Inhumans, a Ghost Rider, a virtual world, a destroyed future Earth and a time-travel chase through the twentieth century. Its later seasons drift away from the films, and its place in the official timeline is unclear."
+    ],
+    "main": ["phil-coulson", "daisy-johnson", "melinda-may", "leo-fitz", "jemma-simmons"],
+    "supporting": ["grant-ward", "mack-mackenzie", "yo-yo-rodriguez", "lance-hunter", "bobbi-morse", "robbie-reyes", "deke-shaw", "nick-fury", "maria-hill", "sif", "daniel-sousa", "jasper-sitwell"]
+  },
+  {
+    "id": "daredevil",
+    "title": "Daredevil",
+    "type": "series",
+    "release": "2015-04-10",
+    "lane": "616-tv",
+    "beat": 2015.2,
+    "year": "2015–18",
+    "tier": "recommended",
+    "short": "Blind lawyer Matt Murdock defends Hell's Kitchen by day and fights Wilson Fisk by night.",
+    "plot": [
+      "Blinded as a boy by chemicals that sharpened his other senses, Matt Murdock runs a small law firm with Foggy Nelson and Karen Page and fights crime in a mask. His enemy is Wilson Fisk, the Kingpin, who is quietly buying the neighbourhood rebuilt after the Battle of New York. Matt puts him in prison.",
+      "Season two brings Frank Castle, the Punisher, and Matt's former lover Elektra, along with the ninja cult the Hand. In season three Fisk manipulates the FBI to get free and turns agent Benjamin Poindexter into a fake Daredevil. Matt beats him again. These versions of Matt and Fisk continue in the MCU."
+    ],
+    "main": ["matt-murdock", "wilson-fisk", "foggy-nelson", "karen-page"],
+    "supporting": ["frank-castle", "elektra", "stick", "claire-temple", "vanessa-fisk", "bullseye", "ben-urich", "madame-gao"]
+  },
+  {
+    "id": "jessica-jones",
+    "title": "Jessica Jones",
+    "type": "series",
+    "release": "2015-11-20",
+    "lane": "616-tv",
+    "beat": 2015.3,
+    "year": "2015–19",
+    "tier": "optional",
+    "short": "A super-strong private investigator confronts the man who once controlled her mind.",
+    "plot": [
+      "Jessica Jones quit being a hero after Kilgrave, who can command anyone with his voice, kept her under his control. When he returns she hunts him and kills him. Later seasons explore the experiments that gave her powers and the fall of her adoptive sister Trish. She returns in Daredevil: Born Again."
+    ],
+    "main": ["jessica-jones", "kilgrave", "trish-walker"],
+    "supporting": ["luke-cage", "jeri-hogarth", "malcolm-ducasse", "claire-temple"]
+  },
+  {
+    "id": "luke-cage",
+    "title": "Luke Cage",
+    "type": "series",
+    "release": "2016-09-30",
+    "lane": "616-tv",
+    "beat": 2015.7,
+    "year": "2015–18",
+    "tier": "optional",
+    "short": "A man with unbreakable skin becomes the reluctant hero of Harlem.",
+    "plot": [
+      "Luke Cage, wrongly imprisoned and changed by an experiment, takes on the gangsters Cottonmouth and Mariah Dillard and his half-brother Diamondback. By the end of season two he has taken over the nightclub at Harlem's centre and risks becoming a boss himself."
+    ],
+    "main": ["luke-cage", "misty-knight", "mariah-dillard", "cottonmouth"],
+    "supporting": ["claire-temple", "shades", "bushmaster", "diamondback"]
+  },
+  {
+    "id": "iron-fist",
+    "title": "Iron Fist",
+    "type": "series",
+    "release": "2017-03-17",
+    "lane": "616-tv",
+    "beat": 2016.1,
+    "year": "2016–18",
+    "tier": "optional",
+    "short": "A lost heir returns to New York with the power of the Iron Fist to fight the Hand.",
+    "plot": [
+      "Danny Rand, presumed dead for fifteen years, returns from the mystical city of K'un-Lun able to focus his chi into his fist. He fights the Hand, which has infiltrated his family's company, alongside martial artist Colleen Wing."
+    ],
+    "main": ["danny-rand", "colleen-wing", "ward-meachum"],
+    "supporting": ["joy-meachum", "davos", "claire-temple", "madame-gao", "misty-knight"]
+  },
+  {
+    "id": "the-defenders",
+    "title": "The Defenders",
+    "type": "series",
+    "release": "2017-08-18",
+    "lane": "616-tv",
+    "beat": 2016.5,
+    "year": "2016",
+    "tier": "optional",
+    "short": "Daredevil, Jessica Jones, Luke Cage and Iron Fist team up against the Hand.",
+    "plot": [
+      "The four street-level heroes are forced together when the Hand, led by Alexandra, resurrects Elektra as its weapon and digs beneath New York. They bring a building down on the Hand. Matt is believed dead and wakes in a convent."
+    ],
+    "main": ["matt-murdock", "jessica-jones", "luke-cage", "danny-rand"],
+    "supporting": ["elektra", "alexandra", "stick", "colleen-wing", "claire-temple", "misty-knight", "foggy-nelson", "karen-page", "madame-gao"]
+  },
+  {
+    "id": "the-punisher",
+    "title": "The Punisher",
+    "type": "series",
+    "release": "2017-11-17",
+    "lane": "616-tv",
+    "beat": 2016.9,
+    "year": "2016–18",
+    "tier": "optional",
+    "short": "Frank Castle uncovers the conspiracy behind his family's murder.",
+    "plot": [
+      "Former Marine Frank Castle, with hacker Micro, learns his family was killed to cover up an illegal operation he took part in overseas and that his friend Billy Russo was involved. He leaves Russo scarred, and by the end of season two fully accepts life as the Punisher. He returns in Daredevil: Born Again."
+    ],
+    "main": ["frank-castle", "billy-russo", "micro"],
+    "supporting": ["dinah-madani", "karen-page", "curtis-hoyle", "amy-bendix"]
+  },
+  {
+    "id": "inhumans",
+    "title": "Inhumans",
+    "type": "series",
+    "release": "2017-09-29",
+    "lane": "616-tv",
+    "beat": 2017.2,
+    "year": "2017",
+    "tier": "optional",
+    "short": "The Inhuman royal family is overthrown on the Moon and scattered across Hawaii.",
+    "plot": [
+      "Black Bolt, a king whose voice can level cities, and his family are driven from their hidden lunar city by his brother Maximus. The series was cancelled after one season. A different Black Bolt appears in Multiverse of Madness."
+    ],
+    "main": ["black-bolt-616", "medusa", "maximus"],
+    "supporting": ["crystal", "karnak", "gorgon", "lockjaw"]
+  },
+  {
+    "id": "runaways",
+    "title": "Runaways",
+    "type": "series",
+    "release": "2017-11-21",
+    "lane": "616-tv",
+    "beat": 2017.3,
+    "year": "2017–19",
+    "tier": "optional",
+    "short": "Six Los Angeles teenagers discover their parents are a criminal cult.",
+    "plot": [
+      "Six teenagers find out their parents, a group called the Pride, carry out sacrifices for an alien being. They go on the run, each with a power or tool of their own, including a telepathic dinosaur and a witch's staff."
+    ],
+    "main": ["nico-minoru-616", "alex-wilder", "karolina-dean", "chase-stein", "gert-yorkes", "molly-hernandez"],
+    "supporting": ["old-lace", "jonah", "tandy-bowen", "tyrone-johnson"]
+  },
+  {
+    "id": "cloak-and-dagger",
+    "title": "Cloak & Dagger",
+    "type": "series",
+    "release": "2018-06-07",
+    "lane": "616-tv",
+    "beat": 2017.7,
+    "year": "2017–19",
+    "tier": "optional",
+    "short": "Two New Orleans teenagers are linked by powers of light and darkness.",
+    "plot": [
+      "Tandy Bowen can make daggers of light and Tyrone Johnson can teleport through darkness. They got their powers in the same accident as children, and they work best together as they expose the company responsible."
+    ],
+    "main": ["tandy-bowen", "tyrone-johnson"],
+    "supporting": ["brigid-oreilly", "evita-fusilier"]
+  }
+]

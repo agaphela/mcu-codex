@@ -1,0 +1,90 @@
+---
+import { computeLayout } from '../lib/layout';
+import type { CodexData } from '../lib/types';
+
+interface Props {
+  data: CodexData;
+}
+const { data } = Astro.props;
+const { lanes, titles } = data;
+
+// First paint: story order, everything shown. The browser script re-runs the same engine on changes.
+const layout = computeLayout(titles, lanes.map((l) => l.id), { order: 'story', tier: 'all' });
+const laneOf = new Map(lanes.map((l) => [l.id, l]));
+const half = lanes.length / 2;
+---
+
+<div class="tl" id="timeline" style={`--n:${layout.cols};--lanes:${lanes.length}`}>
+  <div class="corner" aria-hidden="true">Universe</div>
+
+  {
+    lanes.map((lane, i) => (
+      <div class="lane-name" style={`--row:${i + 1};--lane:${lane.color}`} title={lane.note}>
+        <span class="code">{lane.code}</span>
+        <span class="full">{lane.name}</span>
+      </div>
+    ))
+  }
+
+  {
+    lanes.map((lane, i) => {
+      const span = layout.spans[lane.id];
+      return (
+        <div
+          class:list={['lane-line', { main: i === 0 }]}
+          data-lane={lane.id}
+          style={`--row:${i + 1};--c0:${span?.[0] ?? 1};--c1:${span?.[1] ?? 1};--lane:${lane.color}`}
+          hidden={!span}
+        />
+      );
+    })
+  }
+
+  {
+    titles
+      .filter((t) => t.crossovers?.length)
+      .map((t) => {
+        const c = layout.connectors.find((x) => x.id === t.id) ?? { col: 1, r0: 1, r1: 1 };
+        return (
+          <div
+            class="link"
+            data-link={t.id}
+            style={`--col:${c.col};--r0:${c.r0};--r1:${c.r1};--lane:${laneOf.get(t.lane)!.color}`}
+          />
+        );
+      })
+  }
+
+  {
+    titles.map((t) => {
+      const n = layout.nodes[t.id];
+      const pos = `--col:${n.col};--row:${n.row};--slot:${n.slot};--lane:${laneOf.get(t.lane)!.color}`;
+      const kind = t.type === 'film' ? 'k-film' : 'k-series';
+      return (
+        <>
+          <button
+            type="button"
+            class:list={['node', `t-${t.tier}`, kind, { upcoming: t.upcoming }]}
+            data-id={t.id}
+            style={pos}
+            aria-label={`${t.title}, ${t.year}`}
+          >
+            <span class="dot" />
+            <span class="yr">{t.year}</span>
+          </button>
+          <button
+            type="button"
+            class:list={['lbl', `t-${t.tier}`, { flip: n.row > half }]}
+            data-id={t.id}
+            style={pos}
+            tabindex="-1"
+            aria-hidden="true"
+          >
+            <span class="yr">{t.year}</span>
+            <span class="name">{t.title}</span>
+          </button>
+        </>
+      );
+    })
+  }
+</div>
