@@ -70,6 +70,11 @@ Static site, no backend: Astro + TypeScript, deployable to GitHub Pages.
   6 months, so `npm run posters` must be re-run at least every 5 months (`npm run validate` fails
   past 180 days); posters must be shown unaltered; the API and its content must not be used with or
   to train an AI or machine-learning application, so do not add AI features that touch TMDB data.
+  TMDB's general Terms of Use (read 17 Nov 2026, version dated 10 May 2024) add: do not use their
+  material with a chatbot or other AI system, do not reach their website by automated means, and
+  do not alter their material. In practice: **an AI session should not run `npm run posters` or fetch
+  anything from themoviedb.org; the owner runs the poster lookup by hand.** The TMDB logo should be
+  the official file, downloaded by the owner and stored in `public/`, not loaded from their website.
 - **Watch links cannot detect a subscription or an installed app.** A plain https link is correct: the
   phone opens the app if installed, and the service handles sign-in. Per-title links live in a title's
   `watch` field; without one the panel falls back to a JustWatch search for Indonesia.
