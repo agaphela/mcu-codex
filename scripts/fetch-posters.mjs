@@ -6,7 +6,11 @@
 import { writeFileSync } from 'node:fs';
 import { dataDir, readJson, readTitles } from './lib.mjs';
 
-const token = process.env.TMDB_TOKEN ?? 'provided-by-proxy';
+const token = process.env.TMDB_TOKEN;
+if (!token) {
+  console.error('Set TMDB_TOKEN to your TMDB "API Read Access Token" first. See README.md → Posters.');
+  process.exit(1);
+}
 const posters = {};
 const missing = [];
 

@@ -49,7 +49,8 @@ theme differences, keyboard-only use, browsers other than Chromium.
    Poster data was fetched on 16 Nov 2026 and must be refreshed before mid-April 2027 (TMDB's
    6-month limit). The first lookup was run by an AI coding assistant; see the TMDB note in PLAN.md.
    The owner may prefer to re-run `npm run posters` personally.
-   Still to do by the owner: re-run `npm run posters` personally, and download the official TMDB logo
+   Still to do by the owner: add the `TMDB_TOKEN` repository secret and run the "Refresh posters"
+   workflow once (README → Posters); it then repeats every four months on its own. Also download the official TMDB logo
    (themoviedb.org → About → Logos & Attribution) so it can be stored in `public/` and the footer can
    stop loading it from TMDB's website.
 2. **No direct Disney+ links.** Every title falls back to a JustWatch search for Indonesia. Exact links

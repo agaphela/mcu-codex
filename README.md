@@ -52,15 +52,28 @@ The important ones:
 
 ### Posters
 
-Poster images are not stored here. `npm run posters` looks each title up on TMDB and saves only the
-poster path; the page loads the image from TMDB. It needs a free TMDB API Read Access Token:
+Poster images are not stored here. The poster lookup finds each title on TMDB and saves only the
+poster path in `src/data/posters.json`; the page loads the image from TMDB. TMDB's terms do not allow
+keeping their data for more than 6 months, and `npm run validate` fails once it is older than 180 days.
+
+It needs a free TMDB **API Read Access Token** (themoviedb.org → Settings → API; the long token,
+not the short "API Key"). Never commit the token or paste it into an issue or chat.
+
+**On GitHub (no computer needed).** Add the token once as a repository secret: Settings → Secrets and
+variables → Actions → New repository secret, name `TMDB_TOKEN`. Then Actions → Refresh posters →
+Run workflow. It also runs by itself on 1 January, May and September, and the site redeploys after.
+
+**On your own computer**, with the repository cloned and `npm install` done:
 
 ```sh
+# macOS / Linux
 TMDB_TOKEN=your-token npm run posters
+
+# Windows PowerShell
+$env:TMDB_TOKEN="your-token"; npm run posters
 ```
 
-TMDB's terms do not allow keeping their data for more than 6 months, so re-run this at least every
-5 months; `npm run validate` fails once the data is older than 180 days.
+Then commit and push `src/data/posters.json`.
 
 ## Roadmap
 
