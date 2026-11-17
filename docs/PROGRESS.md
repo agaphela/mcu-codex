@@ -46,6 +46,9 @@ theme differences, keyboard-only use, browsers other than Chromium.
    injected by the proxy; run with `NODE_USE_ENV_PROXY=1 NODE_EXTRA_CA_CERTS=/root/.ccr/ca-bundle.crt`).
    The footer's TMDB logo is loaded from a themoviedb.org address written from memory and not verified;
    if it shows only the text "TMDB", download the official logo from TMDB's logo page into `public/`.
+   Poster data was fetched on 16 Nov 2026 and must be refreshed before mid-April 2027 (TMDB's
+   6-month limit). The first lookup was run by an AI coding assistant; see the TMDB note in PLAN.md.
+   The owner may prefer to re-run `npm run posters` personally.
 2. **No direct Disney+ links.** Every title falls back to a JustWatch search for Indonesia. Exact links
    go in a title's `watch` field. Disney+ could not be reached from the cloud session to collect them,
    and the right link format for Disney+ Indonesia is unconfirmed (reports say it still runs on the

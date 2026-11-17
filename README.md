@@ -59,7 +59,8 @@ poster path; the page loads the image from TMDB. It needs a free TMDB API Read A
 TMDB_TOKEN=your-token npm run posters
 ```
 
-Until then each title shows a coloured title card.
+TMDB's terms do not allow keeping their data for more than 6 months, so re-run this at least every
+5 months; `npm run validate` fails once the data is older than 180 days.
 
 ## Roadmap
 

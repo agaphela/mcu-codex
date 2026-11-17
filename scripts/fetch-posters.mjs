@@ -1,12 +1,13 @@
 // Looks up each title on TMDB and records its poster path in src/data/posters.json.
 // Needs a TMDB "API Read Access Token": TMDB_TOKEN=... npm run posters
 // Only poster paths are stored; the images themselves stay on TMDB's servers.
+// TMDB's API terms forbid keeping their data longer than 6 months, so every run
+// looks all titles up again and stamps the date. Re-run at least every 5 months.
 import { writeFileSync } from 'node:fs';
 import { dataDir, readJson, readTitles } from './lib.mjs';
 
 const token = process.env.TMDB_TOKEN ?? 'provided-by-proxy';
-const posters = readJson('posters.json');
-const refresh = process.argv.includes('--refresh');
+const posters = {};
 const missing = [];
 
 async function search(kind, query, year) {
@@ -19,7 +20,6 @@ async function search(kind, query, year) {
 }
 
 for (const t of readTitles()) {
-  if (posters[t.id] && !refresh) continue;
   const query = t.tmdbQuery ?? t.title;
   const year = t.release.slice(0, 4);
   // Specials are filed as movies on TMDB; try the likelier kind first, then the other.
@@ -39,5 +39,6 @@ for (const t of readTitles()) {
 }
 
 const sorted = Object.fromEntries(Object.entries(posters).sort(([a], [b]) => a.localeCompare(b)));
-writeFileSync(dataDir + 'posters.json', JSON.stringify(sorted, null, 2) + '\n');
+const fetchedAt = new Date().toISOString().slice(0, 10);
+writeFileSync(dataDir + 'posters.json', JSON.stringify({ fetchedAt, paths: sorted }, null, 2) + '\n');
 console.log(`\n${Object.keys(sorted).length} posters saved.` + (missing.length ? ` Not found: ${missing.join(', ')}` : ''));

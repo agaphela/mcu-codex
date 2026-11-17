@@ -65,6 +65,11 @@ Static site, no backend: Astro + TypeScript, deployable to GitHub Pages.
 
 - **Posters are copyrighted.** Store TMDB poster paths only (`src/data/posters.json`), load images from
   TMDB, and keep the TMDB logo and their exact required notice in the footer (API Terms of Use, section 3).
+- **TMDB API terms** (read 17 Nov 2026, version dated 20 Oct 2023). The ones that bind this project:
+  no commercial use (no ads, fees, or revenue of any kind); TMDB data may not be kept longer than
+  6 months, so `npm run posters` must be re-run at least every 5 months (`npm run validate` fails
+  past 180 days); posters must be shown unaltered; the API and its content must not be used with or
+  to train an AI or machine-learning application, so do not add AI features that touch TMDB data.
 - **Watch links cannot detect a subscription or an installed app.** A plain https link is correct: the
   phone opens the app if installed, and the service handles sign-in. Per-title links live in a title's
   `watch` field; without one the panel falls back to a JustWatch search for Indonesia.

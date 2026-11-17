@@ -38,5 +38,5 @@ export function loadCodex(): CodexData {
   const used = new Set(titles.flatMap((t) => [...t.main, ...t.supporting]));
   const usedCharacters = Object.fromEntries(Object.entries(characters).filter(([id]) => used.has(id)));
 
-  return { lanes, titles, characters: usedCharacters, posters: postersJson as Record<string, string> };
+  return { lanes, titles, characters: usedCharacters, posters: (postersJson as { paths: Record<string, string> }).paths };
 }
